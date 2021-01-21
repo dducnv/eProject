@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact</title>
+    <link rel="shortcut icon" href="../IMG/logo-title.png">
+    <link rel="stylesheet" href="../bootstrap%203.4.1/css/bootstrap.css">
+    <link rel="stylesheet" href="../DucHandSome/contact.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Quicksand:wght@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../fontawesome5.15.1/css/all.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Candal&family=Lobster&family=Palanquin+Dark:wght@400;500;600&family=Rammetto+One&family=Seymour+One&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../Nav&FooterCSS/Nav.css">
+    <link rel="stylesheet" href="../Nav&FooterCSS/Footer.css">
+    <link rel="stylesheet" href="../Nav&FooterCSS/toTop.css">
+</head>
+<body>
+<nav class="navbar text-center">
+    <div class="container-nav">
+    <div class="menu" >
+        <ul>
+            <li class="li1"><a href="../DucHandSome/Home.html" class="menu-nav-text">HOME</a></li>
+            <li class="li2"><a class="menu-nav-text">EXPERIENCE</a></li>
+            <li class="li3 li-logo"><a><img class="logo" src="../IMG/DaNangParkLogo2.png" alt="logo"/></a></li>
+            <li class="li4"><a class="menu-nav-text">EVENT NEWS</a></li>
+            <li class="li5"><a href="Contact.html" class="menu-nav-text">CONTACT</a></li>
+        </ul>
+        <div class="text-center nav-search">
+            <label for="search"></label>
+            <input id="search" name="search" type="search" placeholder="Search...">
+            <a href="#" class="search-btn">
+                <i class="fas fa-search"></i>
+            </a>
+        </div>
+    </div>
+    </div>
+</nav>
+<div class="top-content">
+</div>
+<div class="full-content-contact">
+    <h1>Contact</h1>
+    <div class="map-input-contact">
+        <div  id="map"></div>
+        <div class="full-input">
+            <h2>Have Any Question?</h2>
+            <p>
+                Please complete the details below and then click on<br/>
+                Submit and we’ll be in contact
+            </p>
+            <label lang="vi en" for="input-contact-name"></label>
+            <input type="text" class="full-name-contact" id="input-contact-name" required name="fullName" placeholder="Full Name...">
+            <label for="input-contact-Phone"></label>
+            <input type="text" class="Number-phone" id="input-contact-Phone" required placeholder="Number Phone...">
+            <label for="input-contact-email"></label>
+            <input type="email" class="email-address" id="input-contact-email" required placeholder="Email Address...">
+            <label for="input-contact-messager"></label>
+            <textarea lang="vi en" id="input-contact-messager" name="Messager" required placeholder="Messager..."></textarea>
+            <button href="#" type="submit">Submit</button>
+        </div>
+    </div>
+</div>
+<div>
+    <button type="button" onclick="topFunction()"  id="toTop" title="Go to top"><i class="fas fa-arrow-up"></i></button>
+</div>
+<footer>
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="logo-footer col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                    <img src="../IMG/DaNangParkLogo2.png" alt="" />
+                </div>
+                <div class="contact-footer col-lg-3 col-sm-2 col-xs-3">
+                    <h3> Contact </h3>
+                    <ul>
+                        <li> <p>
+                            DETECH Building<br/>
+                            8, Ton That Thuyet, My Dinh Ward 2
+                            District Nam Tu Liem, Ha Noi
+                        </p> </li>
+                        <li><span>Email:</span><a class="email" href="mailto:FPTAptech@fpt.edu.com.vn">fptaptech@fpt.edu.com.vn</a></li>
+                        <li><span>Phone:</span><a class="phone" href="tel:0999999999">09999999999</a></li>
+
+                    </ul>
+                </div>
+                <div class="followus text-center col-lg-3 col-sm-2 col-xs-3">
+                    <h3>Follow Us</h3>
+                    <ul>
+                        <li><a href="https://www.facebook.com/aptech.fpt"><i class="fab fa-facebook-square"></i></a></li>
+                        <li><a href="https://www.instagram.com/fptaptech1999/"><i class="fab fa-instagram-square"></i></a></li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <br>
+            <div class="container">
+                <p class="pull-left copyright"> ©DA NANG PARK 2021. eProject FPT Aptech T2009M  </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="../JS/eProject.js"></script>
+<script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaj0mHlR-keu-9hsR6d-gB0L9BclG04rk&callback=initMap&libraries=&v=weekly" defer
+></script>
+</body>
+</html>
