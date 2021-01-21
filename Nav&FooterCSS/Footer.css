@@ -1,0 +1,57 @@
+footer{
+    width:auto;
+    height:350px;
+    background:#B1E1DF;
+}
+footer h3{
+    font-family: 'Palanquin Dark',sans-serif;
+    color:#395D5E;
+}
+.footer p{
+    color:#395D5E;
+    font-size:15px;
+    font-family: 'Quicksand',sans-serif;
+}
+footer ul li{
+    font-size:20px;
+    font-family:'Quicksand',sans-serif;
+}
+footer ul li span{
+    color:#395D5E;
+}
+a.email,.phone{
+    margin-left:5px;
+    color:#2EB1AB;
+}
+a.email:hover,.phone:hover{
+    color:#395D5E;
+    text-decoration:none;
+}
+
+.logo-footer img{
+    width:250px;
+    height:250px;
+}
+.contact-footer{
+    margin-top:20px;
+}
+.footer-bottom{
+    margin-top:40px;
+    border-top:1px solid #c3bebe;
+}
+.footer-bottom .container{
+}
+.followus{
+    margin-top:20px;
+}
+.followus ul li .fa-facebook-square,.fa-instagram-square{
+    font-size:40px;
+    color: #2EB1AB;
+    margin-top:10px;
+}
+.followus ul li .fa-facebook-square:hover,.fa-instagram-square:hover{
+    color:#395D5E;
+}
+.followus ul li span{
+    color: white;
+}

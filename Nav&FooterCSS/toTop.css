@@ -1,0 +1,21 @@
+#toTop{
+    background-color:#2eb1ab;
+    width:50px;
+    z-index:99;
+    right:50px;
+    bottom:60px;
+    position:fixed;
+    display:none;
+    height:50px;
+    border-radius:10px;
+    border: none;
+    font-size:20px;
+    color:#395D5E;
+}
+#toTop:focus{
+    outline:none;
+}
+#toTop:hover{
+    background-color:#ffffff;
+    color: #2eb1ab;
+}
