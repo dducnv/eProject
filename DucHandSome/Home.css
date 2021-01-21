@@ -135,7 +135,7 @@ nav.sticky{
 .slider-backgroud-home{
     width:100%;
     height:800px;
-    background-image: url("./IMG/eProject slides IMG/slides1.jpg");
+    background-image: url("../IMG/eProject slides IMG/slides1.jpg");
     background-size:cover;
     background-attachment:fixed;
 }
@@ -398,7 +398,7 @@ a.email:hover,.phone:hover{
     width:100%;
     height:300px;
     border-radius:5px;
-    background-image:url("./IMG/Home/54485-sunwheel2.jpg");
+    background-image:url("../IMG/Home/54485-sunwheel2.jpg");
     background-attachment: fixed;
     background-size:cover;
 
