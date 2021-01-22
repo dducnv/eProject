@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="NaycuaDuc">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/amthucDN.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/amthucDN.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CssHieu/Souvenir shop.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/Souvenir shop.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CssHieu/Vuichoi.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/Vuichoi.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CssHieu/amthucDN.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/amthucDN.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CssHieu/biggest roller coaster.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/biggest roller coaster.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CssHieu/noel.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/noel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CssHieu/promotion ticker.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/promotion ticker.css" afterDir="false" />
-    </list>
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +107,7 @@
       <workItem from="1611239670523" duration="3785000" />
       <workItem from="1611243970559" duration="301000" />
       <workItem from="1611244541046" duration="323000" />
-      <workItem from="1611279394690" duration="3567000" />
+      <workItem from="1611279394690" duration="3899000" />
     </task>
     <task id="LOCAL-00001" summary="NaycuaDuc">
       <created>1611204250757</created>
@@ -140,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611242383324</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="NaycuaDuc">
+      <created>1611283166236</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611283166236</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
