@@ -1,0 +1,160 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-color: #e2e39e;
+    font-size: 14px;
+}
+
+.top-new{
+    width:100%;
+    height:200px;
+}
+.contain{
+    width: 90%;
+    height:auto;
+    margin: auto;
+}
+.contain h3{
+    padding-left: 1%;
+    font-size: 30px;
+    font-weight: 800;
+}
+.contain p{
+    padding-left: 1%;
+    padding-top: 2%;
+    font-size: 14px;
+}
+.contain img{
+    text-align: center;
+    padding-top: 2%;
+}
+.caption{
+    margin-top: 1%;
+    text-align: center;
+    padding-bottom: 1%;
+}
+.contain h2{
+    margin-top: 3%;
+    padding-left: 1%;
+    font-size: 20px;
+    font-weight: 800;
+}
+.caption1{
+    padding-left: 1%;
+    font-size: 14px;
+}
+.full-contentNew{
+    width:90%;
+    background-color:#ffffff;
+    height: auto;
+    margin:auto;
+}
+.full-contentNew img{
+    text-align: center;
+}
+#a{
+    padding-left: 1%;
+    font-size: 14px;
+    margin-top: 1%;
+}
+
+#b{
+    padding-left: 1%;
+    font-size: 14px;
+    margin-top: 1%;
+}
+#quick-food{
+    width: 60%;
+    height:50%;
+    margin-left: 20%;
+}
+#cake{
+    margin-left:15%;
+    width: 70%;
+    height: 50%;
+}
+.caption-corona{
+    margin-top:1%;
+    margin-left: 1%;
+    font-size: 14px;
+    line-height:2;
+}
+.caption-corona-notice{
+    line-height: 2.5;
+    margin-top:1%;
+    margin-left: 1%;
+    font-size: 16px;
+
+}
+.contain h4{
+    margin-top: 5%;
+    margin-left: 1%;
+}
+.photo1{
+    width: 60%;
+    height:50%;
+    margin-left: 16%;
+    margin-top: 2%;
+}
+.full-productNew{
+    text-align:center;
+}
+.product-otherNew p{
+    width:230px;
+    margin:10px;
+    text-align: left;
+}
+.product-otherNew h3{
+    margin:10px;
+    width:230px;
+}
+.product-otherNew img{
+    width:90%;
+    margin:13px;
+    height:150px;
+
+}
+
+.product-otherNew{
+    width:250px;
+    height:400px;
+    display:inline-block;
+    margin:10px;
+    border-radius:5px;
+    box-shadow:2px 2px 10px rgba(0,0,0,0.2);
+}
+.product-otherNew:hover{
+    background-color: #F6F7EB;
+    box-shadow:2px 2px 10px rgba(0,0,0,0.2);
+}
+.experiences{
+    width:90%;
+    height:auto;
+    margin: auto;
+}
+.food{
+    width: 95%;
+    height: 100%;
+    text-align: center;
+}
+.bread-soup img{
+    width:50%;
+    height: 50%;
+    margin-left: 25%;
+}
+.quick-food img{
+    width: 90%;
+    height: 50%;
+    margin-left: 5%;
+}
+.event{
+    text-align: center;
+}
+/*footer*/
+
+.
+

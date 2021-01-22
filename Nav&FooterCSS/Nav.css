@@ -2,6 +2,12 @@
     background:#2EB1AB;
     color:white;
 }
+.border-top{
+    width:100%;
+    height:200px;
+    border-bottom:1px solid #bebdbd;
+
+}
 .navbar{
     width:100%;
     position:fixed;
@@ -66,11 +72,11 @@ nav .menu li{
 nav.sticky{
     padding:10px 10px 10px;
     width:100%;
-    background-color:#B1E1DF;
+    background-color:rgba(177,225,223,.7);
     transition:0.5s;
 }
 .sticky ul .menu-2{
-    background-color:#b1e1df;
+    background-color:rgba(177,225,223,.9);
     width:150px;
     height:auto;
     top:20px;

@@ -1,0 +1,69 @@
+body{
+    width: 100%;
+}
+.contain{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:15%;
+}
+.contain h3{
+    padding-top: 1%;
+    padding-left: 1%;
+    font-size: 30px;
+    font-weight: 800;
+}
+.contain p{
+    padding-left: 1%;
+    padding-top: 2%;
+    font-size: 14px;
+}
+.contain img{
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    padding-top: 2%;
+}
+.caption{
+    margin-top: 1%;
+    text-align: center;
+    padding-bottom: 1%;
+}
+.contain h2{
+    margin-top: 3%;
+    padding-left: 1%;
+    font-size: 20px;
+    font-weight: 800;
+}
+.caption1{
+    padding-left: 1%;
+    font-size: 14px;
+}
+.product{
+    width: 15%;
+    height: 400px;
+    background-color:#ffffff;
+    float: left;
+    border-radius:10px;
+    border-image-width: 10px;
+    margin-top:7%;
+    margin-left:4%;
+}
+.product img{
+    border-radius:10px 10px;
+}
+.other-experiences{
+    font-weight:900;
+    margin-top: 5%;
+    font-size: 20px;
+}
+.product:hover{
+    box-shadow:0 0 5px #c6bfbf;
+}
+.experiences{
+    width: 90%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5%;
+}
