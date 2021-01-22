@@ -5,8 +5,7 @@
     list-style: none;
 }
 body{
-    background-color: #F6F7EB ;
-    width: 100%;
+    background-color: #e2e39e;
     font-size: 14px;
 }
 
@@ -49,7 +48,8 @@ body{
     font-size: 14px;
 }
 .full-contentNew{
-    width:100%;
+    width:90%;
+    background-color:#ffffff;
     height: auto;
     margin:auto;
 }
