@@ -2,8 +2,8 @@
     background-color:#2eb1ab;
     width:50px;
     z-index:99;
-    right:50px;
-    bottom:60px;
+    right:20px;
+    bottom:30px;
     position:fixed;
     display:none;
     height:50px;
@@ -16,6 +16,6 @@
     outline:none;
 }
 #toTop:hover{
-    background-color:#ffffff;
+    background-color: #efeeee;
     color: #2eb1ab;
 }
