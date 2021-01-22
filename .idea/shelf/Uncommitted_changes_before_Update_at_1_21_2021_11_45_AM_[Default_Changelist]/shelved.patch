@@ -1,0 +1,42 @@
+Index: gggh.html
+===================================================================
+--- gggh.html	(revision 9d49c6c9c34e05fa93caf6860cf6617176ae0489)
++++ gggh.html	(revision 9d49c6c9c34e05fa93caf6860cf6617176ae0489)
+@@ -1,10 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Title</title>
+-</head>
+-<body>
+-
+-</body>
+-</html>
+\ No newline at end of file
+Index: demo2.html
+===================================================================
+--- demo2.html	(revision 9d49c6c9c34e05fa93caf6860cf6617176ae0489)
++++ demo2.html	(revision 9d49c6c9c34e05fa93caf6860cf6617176ae0489)
+@@ -1,10 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Title</title>
+-</head>
+-<body>
+-
+-</body>
+-</html>
+\ No newline at end of file
+Index: README.md
+===================================================================
+--- README.md	(revision 9d49c6c9c34e05fa93caf6860cf6617176ae0489)
++++ README.md	(revision 9d49c6c9c34e05fa93caf6860cf6617176ae0489)
+@@ -1,2 +0,0 @@
+-"# eProject" 
+-"# eProject" 
+diff --git demo.html Restaurant.html
+rename from demo.html
+rename to Restaurant.html
