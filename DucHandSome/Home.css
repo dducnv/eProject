@@ -92,6 +92,11 @@
     height:300px;
 
 }
+.content-introduce .text-content-introduce h2{
+    color:#517A85;
+    font-size:40px;
+    font-family:'Quicksand',sans-serif;
+}
 .introduce h1{
     color:#517A85;
     font-size:70px;
@@ -200,9 +205,144 @@
     background-size:cover;
 
 }
+/*Gallery-home*/
 .Gallery-home{
     margin:40px 0;
     width:100%;
-    height:420px;
-    border:2px solid black;
+    height:500px;
+
 }
+
+.Slider-BottonHome{
+    width:100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin: auto;
+}
+.Content-Gallery{
+    width:400px;
+    height:450px;
+    background-position: center;
+    text-align: center;
+    border-radius:5px;
+    overflow: hidden;
+    margin:30px 20px;
+    cursor: pointer;
+    box-shadow:2px 2px 10px rgba(0,0,0,0.4);
+
+}
+.Content-Gallery img{
+    border-radius:10px;
+    width: unset;
+    height: fit-content;
+}
+.Item1{
+    opacity: 1;
+    transform-origin: 50% 50%;
+    transform: translateY(0px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../IMG/GALLERY/mua-he-nay-hay-thu-check-in-song-ao-tai-sun-world-danang-wonders-12.jpg");
+}
+.Item2{
+    opacity: 1;
+    transform-origin: 50% 50%;
+    transform: translateY(0px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../IMG/GALLERY/asia_park_13.jpg");
+}
+.Item3{
+    opacity: 1;
+    transform-origin: 50% 50%;
+    transform: translateY(0px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../IMG/GALLERY/cay-cau-vang-sun-world-ba-na-hills-da-nang-vao-top-nhung-cau-di-bo-tuong-nhat-gioi-1.jpg");
+}
+.Item4{
+    opacity: 1;
+    transform-origin: 50% 50%;
+    transform: translateY(0px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../IMG/GALLERY/highway-boat-sun-world-da-nang.jpg");
+}
+.Item5{
+    opacity: 1;
+    transform-origin: 50% 50%;
+    transform: translateY(0px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../IMG/GALLERY/khu-trung-quoc-sun-world-da-nang-scaled.jpg");
+    margin-right:20%;
+}
+.Item6{
+    opacity: 1;
+    transform-origin: 50% 50%;
+    transform: translateY(0px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../IMG/GALLERY/nha-hang-indo.jpg");
+}
+.Item7{
+    opacity: 1;
+    transform-origin: 50% 50%;
+    transform: translateY(0px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../IMG/GALLERY/nha-hang-jummie-sun-world-da-nang-scaled.jpg");
+}
+.Item8{
+    opacity: 1;
+    transform-origin: 50% 50%;
+    transform: translateY(0px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../IMG/GALLERY/queen-cobra-.jpg");
+}
+.Item9{
+    opacity: 1;
+    transform-origin: 50% 50%;
+    transform: translateY(0px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../IMG/GALLERY/the-flying-kirins-scaled.jpg");
+}
+.Item10{
+    opacity: 1;
+    transform-origin: 50% 50%;
+    transform: translateY(0px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../IMG/GALLERY/tro-choi-mao-hiem-sieu-chat-sap-co-mat-o-hoi-an-1.jpg");
+}
+.Item11{
+    opacity: 1;
+    transform-origin: 50% 50%;
+    transform: translateY(0px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../IMG/GALLERY/vong-quay-mat-troi-asia-park_1.jpg");
+}
+.Item12{
+    opacity: 1;
+    transform-origin: 50% 50%;
+    transform: translateY(0px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../IMG/GALLERY/vong-xoay-360-do-sun-world-da-nang.jpg");
+}
+.Item13{
+    opacity: 1;
+    transform-origin: 50% 50%;
+    transform: translateY(0px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../IMG/GALLERY/vong-xoay-ngua-go-sun-world-scaled.jpg");
+}
+
+
+
