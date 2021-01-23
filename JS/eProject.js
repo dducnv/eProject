@@ -19,10 +19,10 @@ function topFunction(){
 //map
 let map;
 function initMap() {
-    var geocode = { lat:21.028827204923033,lng:105.78228036747664},
+    var geocode = { lat:16.040445938776717,lng:108.22660781539376},
     map2 = new google.maps.Map(document.getElementById("map"), {
         center:geocode,
-        zoom:20,
+        zoom:15,
         scrollWeel:false
     });
       new google.maps.Marker({

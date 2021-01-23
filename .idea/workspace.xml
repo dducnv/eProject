@@ -2,9 +2,109 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DucHandSome/EXPERIENCE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DucHandSome/Experience.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/Picture7-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/Picture7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/asia_park_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/image5-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/NextPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Csschung.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/NextPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanBadGirl/NewHome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanBadGirl/NewsHome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slider/css/lightslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slider/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slider/js/JQuery3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slider/js/lightslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slider/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nav&amp;FooterCSS/toTop.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nav&amp;FooterCSS/toTop.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Footer,Nav&amp;toTopHTML/Footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Footer,Nav&amp;toTopHTML/Footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Footer,Nav&amp;toTopHTML/Nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/Footer,Nav&amp;toTopHTML/Nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/eProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/eProject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nav&amp;FooterCSS/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nav&amp;FooterCSS/Nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nav&amp;FooterCSS/toTop.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/toTop.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/BBQ Chicken/BBQ.css" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/BBQ.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/BBQ Chicken/BBQ.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/BBQ.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/BBQ Chicken/img/DaNangParkLogo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/BBQ Chicken/img/DaNangParkLogo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/BBQ Chicken/img/angry-ramen.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/BBQ Chicken/img/angry-ramen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/BBQ Chicken/img/bb-lunch-set-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/BBQ Chicken/img/bb-lunch-set-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/BBQ Chicken/img/blue-berry-soda.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/BBQ Chicken/img/blue-berry-soda.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/BBQ Chicken/img/cheese-dakkalbi-chicken.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/BBQ Chicken/img/cheese-dakkalbi-chicken.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/BBQ Chicken/img/dakkalbi-chicken.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/BBQ Chicken/img/dakkalbi-chicken.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/BBQ Chicken/img/galbi-chicken.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/BBQ Chicken/img/galbi-chicken.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/BBQ Chicken/img/my-jjapaguri--jjapaguri.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/BBQ Chicken/img/my-jjapaguri--jjapaguri.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/BBQ Chicken/img/pizza-Thanh-Yen-jam.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/BBQ Chicken/img/pizza-Thanh-Yen-jam.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/BBQ Chicken/img/wang-galbi-chicken.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/BBQ Chicken/img/wang-galbi-chicken.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/KFC/KFC.css" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/KFC.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/KFC/KFC.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/KFC.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/KFC/img/DaNangParkLogo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/KFC/img/DaNangParkLogo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/KFC/img/Hot Wings 5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/KFC/img/Hot Wings 5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/KFC/img/combo a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/KFC/img/combo a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/KFC/img/combo b.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/KFC/img/combo b.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/KFC/img/combo c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/KFC/img/combo c.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/KFC/img/combo d.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/KFC/img/combo d.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/KFC/img/combo gd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/KFC/img/combo gd.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/KFC/img/combo nhom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/KFC/img/combo nhom.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/KFC/img/ga-quay-giay-bac.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/KFC/img/ga-quay-giay-bac.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/KFC/img/hot-wings 3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/KFC/img/hot-wings 3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/McDonald's/McDonald's.css" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/McDonald's.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/McDonald's/McDonald's.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/McDonald's.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/McDonald's/img/DaNangParkLogo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/McDonald's/img/DaNangParkLogo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/McDonald's/img/burgers.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/McDonald's/img/burgers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/McDonald's/img/cate.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/McDonald's/img/cate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/McDonald's/img/chicken.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/McDonald's/img/chicken.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/McDonald's/img/dessert.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/McDonald's/img/dessert.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/McDonald's/img/drink.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/McDonald's/img/drink.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/McDonald's/img/evm.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/McDonald's/img/evm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/McDonald's/img/happymeal.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/McDonald's/img/happymeal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/McDonald's/img/mcsaver.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/McDonald's/img/mcsaver.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/McDonald's/img/rice.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/McDonald's/img/rice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/Royal tea/Royal tea.css" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/Royal tea.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/Royal tea/Royal tea.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/Royal tea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/Royal tea/img/DaNangParkLogo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/Royal tea/img/DaNangParkLogo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/Royal tea/img/Fresh Fruit Smoothie.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/Royal tea/img/Fresh Fruit Smoothie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/Royal tea/img/Fresh Fruit tea.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/Royal tea/img/Fresh Fruit tea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/Royal tea/img/cheese tea.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/Royal tea/img/cheese tea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/Royal tea/img/coffe.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/Royal tea/img/coffe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/Royal tea/img/hottea.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/Royal tea/img/hottea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/Royal tea/img/milk tea.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/Royal tea/img/milk tea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/Royal tea/img/royal cheese.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/Royal tea/img/royal cheese.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/Royal tea/img/topping.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/Royal tea/img/topping.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/home/img/BBQ chicken.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/img/BBQ chicken.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/home/img/DaNangParkLogo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/img/DaNangParkLogo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/home/img/KFC.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/img/KFC.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/home/img/McDonald's.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/img/McDonald's.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/home/img/burger king.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/img/burger king.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/home/img/cv.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/img/cv.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/home/img/parkDN.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/img/parkDN.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/home/park.css" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/img/park.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/home/park.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/park.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/DaNangParkLogo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/DaNangParkLogo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img1.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img2.png" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/img/img9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadGirl/news/img/img9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/news.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quan bad boiz/news/news.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +144,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/IMG" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -53,18 +153,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\eProject-6\IMG" />
+      <recent name="D:\eProject-6\Slider" />
       <recent name="C:\Users\ducbe\WebstormProjects\eProject-6" />
       <recent name="D:\eProject\IMG\Home" />
       <recent name="D:\eProject\IMG" />
-      <recent name="D:\eProject\IMG\test" />
-      <recent name="D:\eProject\IMG\eProject slides IMG" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\eProject-6\DucHandSome" />
+      <recent name="D:\eProject-6\JS" />
+      <recent name="D:\eProject-6\Quan bad boiz" />
+      <recent name="D:\eProject-6\Quan bad boiz\img" />
       <recent name="D:\eProject-6\CodeHieu" />
-      <recent name="C:\Users\ducbe\WebstormProjects\eProject-6\DucHandSome" />
-      <recent name="D:\eProject" />
-      <recent name="D:\eProject\IMG\eProject slides IMG" />
-      <recent name="D:\eProject\JS" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -117,6 +217,11 @@
       <workItem from="1611243970559" duration="301000" />
       <workItem from="1611244541046" duration="323000" />
       <workItem from="1611279394690" duration="6269000" />
+      <workItem from="1611311744239" duration="1161000" />
+      <workItem from="1611318355846" duration="964000" />
+      <workItem from="1611327393181" duration="8781000" />
+      <workItem from="1611366657633" duration="6479000" />
+      <workItem from="1611381094681" duration="8236000" />
     </task>
     <task id="LOCAL-00001" summary="NaycuaDuc">
       <created>1611204250757</created>
