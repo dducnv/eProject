@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/asia_park_13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/cay-cau-vang-sun-world-ba-na-hills-da-nang-vao-top-nhung-cau-di-bo-tuong-nhat-gioi-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/highway-boat-sun-world-da-nang.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/khu-trung-quoc-sun-world-da-nang-scaled.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/mua-he-nay-hay-thu-check-in-song-ao-tai-sun-world-danang-wonders-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/nha-hang-indo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/nha-hang-jummie-sun-world-da-nang-scaled.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/queen-cobra-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/queen-cobra-sun-world-scaled.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/the-flying-kirins-scaled.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/tro-choi-mao-hiem-sieu-chat-sap-co-mat-o-hoi-an-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/vong-quay-mat-troi-asia-park_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/vong-xoay-360-do-sun-world-da-nang.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG/GALLERY/vong-xoay-ngua-go-sun-world-scaled.jpg" afterDir="false" />
+    <list default="true" id="86191198-b0a9-4672-b342-98e7d3de9b5d" name="Default Changelist" comment="Day cua quan">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DucHandSome/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DucHandSome/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +69,6 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\eProject-6\IMG" />
-      <recent name="D:\eProject-6\Slider" />
-      <recent name="C:\Users\ducbe\WebstormProjects\eProject-6" />
-      <recent name="D:\eProject\IMG\Home" />
-      <recent name="D:\eProject\IMG" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\eProject-6\DucHandSome" />
       <recent name="D:\eProject-6\JS" />
@@ -80,11 +76,18 @@
       <recent name="D:\eProject-6\Quan bad boiz\img" />
       <recent name="D:\eProject-6\CodeHieu" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\eProject-6\IMG" />
+      <recent name="D:\eProject-6\Slider" />
+      <recent name="C:\Users\ducbe\WebstormProjects\eProject-6" />
+      <recent name="D:\eProject\IMG\Home" />
+      <recent name="D:\eProject\IMG" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="" />
+      <changelist id="86191198-b0a9-4672-b342-98e7d3de9b5d" name="Default Changelist" comment="Day cua quan" />
       <created>1609812674781</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -137,6 +140,7 @@
       <workItem from="1611366657633" duration="6479000" />
       <workItem from="1611381094681" duration="8876000" />
       <workItem from="1611397738308" duration="4308000" />
+      <workItem from="1611470999210" duration="1461000" />
     </task>
     <task id="LOCAL-00001" summary="NaycuaDuc">
       <created>1611204250757</created>
@@ -194,14 +198,55 @@
       <option name="project" value="LOCAL" />
       <updated>1611389678192</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Day cua quan">
+      <created>1611418917519</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611418917519</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Day cua quan">
+      <created>1611418928873</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611418928873</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="NaycuaDuc" />
-    <option name="LAST_COMMIT_MESSAGE" value="NaycuaDuc" />
+    <MESSAGE value="Day cua quan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day cua quan" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="147" y="65" key="MergeDialog" timestamp="1611418890583">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1611418890583" />
+    <state x="407" y="174" key="MultipleFileMergeDialog" timestamp="1611418890592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1611418890592" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611418953828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611418953828" />
   </component>
 </project>
