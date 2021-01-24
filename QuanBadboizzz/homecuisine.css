@@ -4,12 +4,17 @@
     font-family:sans-serif;
     text-decoration: none;
 }
-.full-contenNewEvent{
+.full-contenCuisine{
     width:100%;
     height: auto;
 }
+h2{
+    font-family:'Roboto',sans-serif;
+    font-weight:600;
+}
 .overall{
     width:1200px;
+    height:210px;
     margin:20px auto;
     padding:20px 10px;
     background: #ffffff;
