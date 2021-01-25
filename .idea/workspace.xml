@@ -20,25 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeHieu/CoronaNew.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeHieu/CoronaNew.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeHieu/biggestRollerCoasterNew.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_10_40_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_10_40_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_23_2021_9_08_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_23_2021_9_08_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/Vuichoi.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/VuichoiNew.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/biggest roller coaster.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/biggest roller coaster.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/corona.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/CoronaNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/CoronaNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/EventNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/EventNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/MemberNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/MemberNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/NoelNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/NoelNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/VuichoiNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/VuichoiNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/biggestRollerCoasterNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/biggestRollerCoasterNew.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeHieu/event 2021.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/event 2021.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeHieu/event end of year.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/event end of year.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/event.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/EventNew.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeHieu/hightway boat.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/hightway boat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/member.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/MemberNew.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/noel.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/NoelNew.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeHieu/promotion ticker.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/promotion ticker.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -247,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611484458579</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Hieu ne">
+      <created>1611559155584</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611559155584</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,24 +268,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="NaycuaDuc" />
     <MESSAGE value="Day cua quan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day cua quan" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611480262062">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1611480262062" />
-    <state x="147" y="65" key="MergeDialog" timestamp="1611418890583">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="147" y="65" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1611418890583" />
-    <state x="407" y="174" key="MultipleFileMergeDialog" timestamp="1611418890592">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1611418890592" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611484488468">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611484488468" />
+    <MESSAGE value="Hieu ne" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hieu ne" />
   </component>
 </project>

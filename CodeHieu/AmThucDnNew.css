@@ -26,6 +26,15 @@ body{
     font-size: 30px;
     font-weight: 800;
 }
+.date-time span{
+    color: #adadad;
+    font-size: 16px;
+    margin-left:1%;
+    margin-top: auto;
+}
+.date-time{
+    display: flex;
+}
 .contain p{
     padding-left: 1%;
     padding-top: 2%;
