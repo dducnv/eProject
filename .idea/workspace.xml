@@ -19,41 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="Day cua quan">
-      <change afterPath="$PROJECT_DIR$/DucHandSome/Gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DucHandSome/Gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/.github/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/.jscsrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/.jshintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/DEPLOY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/Gruntfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/css/lightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/css/lightbox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/images/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/images/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox-plus-jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox-plus-jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/examples/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_10_40_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_10_40_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_23_2021_9_08_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_23_2021_9_08_PM__Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/biggestRollerCoasterNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/biggestRollerCoasterNew.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DucHandSome/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DucHandSome/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Nav.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,6 +146,7 @@
       <workItem from="1611563922283" duration="2279000" />
       <workItem from="1611566246139" duration="2837000" />
       <workItem from="1611574632809" duration="6020000" />
+      <workItem from="1611584386433" duration="1047000" />
     </task>
     <task id="LOCAL-00001" summary="NaycuaDuc">
       <created>1611204250757</created>
@@ -278,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611560124474</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="DayCuaDuc">
+      <created>1611584462812</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611584462812</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +275,7 @@
     <MESSAGE value="NaycuaDuc" />
     <MESSAGE value="Day cua quan" />
     <MESSAGE value="Hieu ne" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hieu ne" />
+    <MESSAGE value="DayCuaDuc" />
+    <option name="LAST_COMMIT_MESSAGE" value="DayCuaDuc" />
   </component>
 </project>
