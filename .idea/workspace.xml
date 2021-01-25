@@ -20,17 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_10_40_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_10_40_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_22_2021_10_36_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_22_2021_10_36_AM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_23_2021_9_08_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_23_2021_9_08_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_24_2021_11_03_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_24_2021_11_03_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_10_38_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_10_38_AM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_3_25_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_3_25_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/NoelNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/NoelNew.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/Souvenir shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/Souvenir shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/CoronaNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/CoronaNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/EventNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/EventNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/MemberNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/MemberNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/biggestRollerCoasterNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/biggestRollerCoasterNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/event 2021.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/event 2021.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/event end of year.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/event end of year.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/hightway boat.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/hightway boat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/promotion ticker.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/promotion ticker.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611584462812</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="hieu">
+      <created>1611590953379</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611590953379</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,6 +293,7 @@
     <MESSAGE value="Day cua quan" />
     <MESSAGE value="Hieu ne" />
     <MESSAGE value="DayCuaDuc" />
-    <option name="LAST_COMMIT_MESSAGE" value="DayCuaDuc" />
+    <MESSAGE value="hieu" />
+    <option name="LAST_COMMIT_MESSAGE" value="hieu" />
   </component>
 </project>
