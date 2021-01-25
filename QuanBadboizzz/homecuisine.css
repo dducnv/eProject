@@ -16,7 +16,6 @@ h2{
     width:1200px;
     height:210px;
     margin:20px auto;
-    padding:20px 10px;
     background: #ffffff;
     box-shadow:0 0 4px 4px #d6d5d5;
     cursor: pointer;
@@ -32,13 +31,14 @@ h2{
     display: flex;
 }
 .text-content{
-    margin:20px 20px;
+    margin:0 20px;
     font-family: cursive;
 }
 .folder img{
     width:240px;
-    height:170px;
-    border-radius:10px;
+    height:190px;
+    margin:10px;
+    border-radius:5px;
 }
 .date-time span{
     color: #adadad;

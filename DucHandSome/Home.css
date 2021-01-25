@@ -86,6 +86,7 @@
     width:1200px;
     display: flex;
     margin: auto;
+    border-radius:5px;
 }
 .text-content-introduce{
     width:525px;
@@ -118,11 +119,13 @@
     width:90%;
     height: auto;
     margin:auto;
+    border-radius:10px;
 }
 .introduce .img-content-introduce .img{
     width:600px;
     height:400px;
     margin:10px;
+    border-radius:5px;
 
 }
 .introduce .img-content-introduce .img{
@@ -131,9 +134,12 @@
 .buttom-introduce{
     float: right;
     margin:40px 188px;
-    width:150px;
-    height:35px;
-    border-radius:30px;
+    width:160px;
+    height:40px;
+    border-radius:10px;
+    border: none;
+    color:#ffffff;
+    background-color: #2EB1AB;
 }
 .experie-content{
     margin:50px auto;
@@ -194,7 +200,10 @@
     margin:10px 120px;
     width:160px;
     height:40px;
-    border-radius:5px;
+    border-radius:10px;
+    border: none;
+    color:#ffffff;
+    background-color: #2EB1AB;
 }
 .backgroud-botton{
     width:100%;
@@ -229,7 +238,6 @@
     border-radius:5px;
     overflow: hidden;
     margin:30px 20px;
-    cursor: pointer;
     box-shadow:2px 2px 10px rgba(0,0,0,0.4);
 
 }
