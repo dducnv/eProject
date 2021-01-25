@@ -19,8 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86191198-b0a9-4672-b342-98e7d3de9b5d" name="Default Changelist" comment="Day cua quan">
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/1FoodHouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/1FoodHouse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/cuisinemenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/cuisinemenu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.css" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,8 +148,7 @@
       <workItem from="1611366657633" duration="6479000" />
       <workItem from="1611381094681" duration="8876000" />
       <workItem from="1611397738308" duration="4308000" />
-      <workItem from="1611470999210" duration="13917000" />
-      <workItem from="1611488806047" duration="110000" />
+      <workItem from="1611470999210" duration="13236000" />
     </task>
     <task id="LOCAL-00001" summary="NaycuaDuc">
       <created>1611204250757</created>
@@ -229,14 +234,7 @@
       <option name="project" value="LOCAL" />
       <updated>1611484458579</updated>
     </task>
-    <task id="LOCAL-00013" summary="Day cua quan">
-      <created>1611484790014</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1611484790014</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,10 +262,6 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1611480262062" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1611484861472">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611484861472" />
     <state x="147" y="65" key="MergeDialog" timestamp="1611418890583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -276,9 +270,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1611418890592" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611484796849">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611484488468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611484796849" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611484488468" />
   </component>
 </project>
