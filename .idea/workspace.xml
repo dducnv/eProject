@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +149,7 @@
       <workItem from="1611566246139" duration="2837000" />
       <workItem from="1611574632809" duration="6020000" />
       <workItem from="1611584386433" duration="1047000" />
+      <workItem from="1611589260265" duration="1099000" />
     </task>
     <task id="LOCAL-00001" summary="NaycuaDuc">
       <created>1611204250757</created>
@@ -253,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611584462812</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="DayCuaDuc">
+      <created>1611589449275</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611589449275</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
