@@ -1,25 +1,30 @@
 *{
     text-decoration: none;
     list-style: none;
+    margin:0;
+    padding:0;
 }
 ::selection {
     background:#2EB1AB;
     color:white;
 }
 .topContent{
-    width:100%;
-    background: #fbfcf7;
+
+}
+.container-navbar{
 }
 .border-top{
     margin:auto;
-    width:90%;
-    text-align: center;
-    padding-top:220px;
+    text-align:center;
+    padding-top:230px;
     display:inline-block;
-    height:250px;
+    height:260px;
+    width:100%;
+    background: #fbfcf7;
 }
 .navbar{
     width:100%;
+    margin: auto;
     position:fixed;
     z-index:99999;
     animation: navbar 1s ease-out forwards ;
@@ -83,9 +88,8 @@
 }
 nav .menu li{
     display:inline-block;
-    margin:0 20px;
     position: relative;
-
+    margin:0 10px;
 }
 .menu-nav-text,.menu-nav-text-menu2{
     text-align: left;
@@ -93,7 +97,7 @@ nav .menu li{
     line-height:30px;
     color:#2EB1AB;
     font-weight:550;
-    font-family: 'Montserrat',sans-serif;
+    font-family: 'Quicksand',sans-serif;
 }
 
 .li1,.li2,.li4,.li5{

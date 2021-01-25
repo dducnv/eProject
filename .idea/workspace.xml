@@ -19,15 +19,41 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="Day cua quan">
+      <change afterPath="$PROJECT_DIR$/DucHandSome/Gallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DucHandSome/Gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/.jscsrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/DEPLOY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox-plus-jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox-plus-jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox2-2.11.3/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_10_40_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_10_40_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_23_2021_9_08_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_23_2021_9_08_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/CoronaNew.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/CoronaNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/CoronaNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeHieu/biggestRollerCoasterNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/biggestRollerCoasterNew.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/event 2021.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/event 2021.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/event end of year.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/event end of year.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/noel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/promotion ticker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Nav.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +64,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -67,7 +93,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/IMG" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,11 +105,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\eProject-6" />
       <recent name="D:\eProject-6\IMG" />
       <recent name="D:\eProject-6\Slider" />
       <recent name="C:\Users\ducbe\WebstormProjects\eProject-6" />
       <recent name="D:\eProject\IMG\Home" />
-      <recent name="D:\eProject\IMG" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\untitled\untitled\eProject-Quan\QuanBadboizzz\img" />
@@ -96,7 +122,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="86191198-b0a9-4672-b342-98e7d3de9b5d" name="Default Changelist" comment="Day cua quan" />
+      <changelist id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="Day cua quan" />
       <created>1609812674781</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -150,6 +176,9 @@
       <workItem from="1611381094681" duration="8876000" />
       <workItem from="1611397738308" duration="4308000" />
       <workItem from="1611470999210" duration="13236000" />
+      <workItem from="1611563922283" duration="2279000" />
+      <workItem from="1611566246139" duration="2837000" />
+      <workItem from="1611574632809" duration="6020000" />
     </task>
     <task id="LOCAL-00001" summary="NaycuaDuc">
       <created>1611204250757</created>
