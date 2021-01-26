@@ -27,6 +27,9 @@ h2{
 .overall:hover .see-more{
     color:#2EB1AB;
 }
+.overall a{
+    font-weight: 700;
+}
 .folder{
     display: flex;
 }
