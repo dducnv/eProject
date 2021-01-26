@@ -27,31 +27,33 @@
 </head>
 <body>
 <nav class="navbar text-center">
-    <div class="menu" >
-        <ul>
-            <li class="li1"><a href="#" class="menu-nav-text">HOME</a></li>
-            <li class="li2"><a class="menu-nav-text">EXPERIENCE</a>
-                <ul class="menu-2">
-                    <li class="li-menu2"><a class="menu-nav-text-menu2">LINK1</a></li>
-                    <li class="li-menu2"><a class="menu-nav-text-menu2">LINK2</a></li>
-                    <li class="li-menu2"><a class="menu-nav-text-menu2">LINK3</a></li>
+    <div class="container-nav">
+        <div class="menu" >
+            <ul>
+                <li class="li1"><a href="../DucHandSome/Home.html" class="menu-nav-text">HOME</a></li>
+                <li class="li2"><a class="menu-nav-text">EXPERIENCE</a>
+                    <ul class="menu-2">
+                        <li class="li-menu2"><a class="menu-nav-text-menu2">LINK1</a></li>
+                        <li class="li-menu2"><a class="menu-nav-text-menu2">LINK2</a></li>
+                        <li class="li-menu2"><a class="menu-nav-text-menu2">LINK3</a></li>
 
-                </ul>
-            </li>
-            <li class="li3"><a href="eProject.html"><img class="logo" src="../imageHieu/DaNangParkLogo2.png" alt="logo"/></a></li>
-            <li class="li4"><a class="menu-nav-text">EVENT NEWS</a></li>
-            <li class="li5"><a href="Contact.html" class="menu-nav-text">CONTACT</a></li>
-        </ul>
-        <div class="text-center nav-search">
-            <label for="search"></label>
-            <input id="search" name="search" type="search" placeholder="Search...">
-            <a href="#" class="search-btn">
-                <i class="fas fa-search"></i>
-            </a>
+                    </ul>
+                </li>
+                <li class="li3"><a href="../DucHandSome/Home.html"><img class="logo" src="../IMG/DaNangParkLogo2.png" alt="logo"/></a></li>
+                <li class="li4"><a class="menu-nav-text">EVENT NEWS</a></li>
+                <li class="li5"><a href="../DucHandSome/Contact.html" class="menu-nav-text">CONTACT</a></li>
+            </ul>
+            <div class="text-center nav-search">
+                <label for="search"></label>
+                <input id="search" name="search" type="search" placeholder="Search...">
+                <a href="#" class="search-btn">
+                    <i class="fas fa-search"></i>
+                </a>
+            </div>
         </div>
     </div>
 </nav>
-<div class="top-new"></div>
+<div class="border-top"></div>
 <div class="full-contentNew">
 <div class="contain">
     <h3>
@@ -134,9 +136,9 @@
         for this special occasion.
     </p>
 </div>
-</div>
+
 <div class="experiences">
-    <h2>other experiences</h2>
+    <h2>Other Experiences</h2>
     <div class="full-productNew">
         <div class="product-otherNew">
             <img src="../imageHieu/tau luon2.jpg" alt="/"/>
@@ -199,6 +201,7 @@
     </div>
 </div>
 </div>
+</div>
 <footer>
     <div class="footer">
         <div class="container">
@@ -238,25 +241,7 @@
     </div>
 
 </footer>
-<script >
-    var toTop = document.getElementById("toTop");
-    window.onscroll = function() {scrollFunction()};
+<script src="../JS/eProject.js"></script>
 
-    function scrollFunction() {
-        if (document.body.scrollTop >=300 || document.documentElement.scrollTop >=300) {
-            toTop.style.display = "block";
-        } else {
-            toTop.style.display = "none";
-        }
-
-        var nav= document.querySelector("Nav");
-        nav.classList.toggle("sticky",window.scrollY>1)
-    }
-    function topFunction(){
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-    }
-
-</script>
 </body>
 </html>

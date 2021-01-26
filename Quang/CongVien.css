@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    list-style:none;
+}
+.full-contentEntertainment{
+    width:90%;
+    height:auto;
+    margin:auto;
+}
+.main img{
+    width:600px;
+    height:450px;
+    margin:0 70px;
+}
+.main{
+    width:90%;
+    height: auto;
+    display:flex;
+    margin: auto;
+    text-align: center;
+}
+.content-entertainment{
+    text-align:left;
+    width:600px;
+    height:450px;
+
+}
+.Full-OtherExperience-Entertainmen{
+    width:100%;
+    height:auto;
+
+}
+.Full-ProductEntertainment{
+    text-align: center;
+}
+.productEntertainment{
+    width:250px;
+    height:250px;
+    border:1px solid;
+    display: inline-block;
+    margin:20px;
+    object-fit: cover;
+    overflow: hidden;
+}
+.productEntertainment:hover img{
+    transform: scale(1.1);
+    transition:0.5s;
+}
+.productEntertainment:hover h3{
+    color:red;
+}
+.productEntertainment img{
+    width: 250px;
+    height: 180px;
+    transition:0.5s;
+}
+h2{
+    color: #2aabd2;
+}
+h3{
+    color: yellow;
+}
+p{
+    font-size: 18px;
+}
+.lulu{
+    width:1300px;
+    height:30px;
+    border:1px solid;
+    display: inline-block;
+    margin:20px;
+    object-fit: cover;
+    background-color: darkcyan;
+    text-align: center;
+}
