@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    list-style:none;
+}
+.full-contentEntertainment{
+    width:90%;
+    height:auto;
+    margin:auto;
+}
+.main img{
+    width:600px;
+    height:450px;
+    margin:0 70px;
+}
+.main{
+    width:100%;
+    height: auto;
+    display:flex;
+    margin:auto;
+    text-align: center;
+}
+.content-entertainment{
+    text-align:left;
+}
+.Full-OtherExperience-Entertainmen{
+    width:100%;
+    height:auto;
+
+}
+.Full-ProductEntertainment{
+    text-align: center;
+}
+.productEntertainment{
+    width:250px;
+    height:250px;
+    border:1px solid;
+    display: inline-block;
+    margin:20px;
+    object-fit: cover;
+}
+.productEntertainment img{
+    width: 250px;
+    height: 200px;
+}
