@@ -26,25 +26,25 @@
     text-transform: uppercase;
 }
 .wellcome{
-    color: #2EB1AB;
+    color: #f7f7f7;
     width:auto;
     font-size:40px;
     font-weight:500;
-    text-shadow: #175b58 2px 2px;
+    text-shadow: #6495ED 2px 2px;
     animation: text2 0.75s ease-out forwards;
     font-family: 'Quicksand',sans-serif;
 
 }
 .name-danang{
     font-size:70px;
-    font-weight:550;
-    color:#2eb1ab;
+    font-weight:500;
+    color:#f7f7f7;
     margin-bottom:-40px;
     letter-spacing:8px;
     position: relative;
-    font-family: 'Lobster',sans-serif;
+    font-family: 'Noto Serif',sans-serif;
     animation: text 0.75s ease-out forwards;
-    text-shadow: #175b58 2px 2px;
+    text-shadow: #6495ED 2px 2px;
 }
 @keyframes text {
     0%{
