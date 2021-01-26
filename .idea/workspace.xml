@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="hieu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Quang/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -74,11 +72,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\eProject-Quang\Quang\img" />
       <recent name="D:\eProject-6" />
       <recent name="D:\eProject-6\IMG" />
       <recent name="D:\eProject-6\Slider" />
       <recent name="C:\Users\ducbe\WebstormProjects\eProject-6" />
-      <recent name="D:\eProject\IMG\Home" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\untitled\untitled\eProject-Quan\QuanBadboizzz\img" />
@@ -149,7 +147,7 @@
       <workItem from="1611566246139" duration="2837000" />
       <workItem from="1611574632809" duration="6020000" />
       <workItem from="1611584386433" duration="1047000" />
-      <workItem from="1611589260265" duration="1099000" />
+      <workItem from="1611625527340" duration="4290000" />
     </task>
     <task id="LOCAL-00001" summary="NaycuaDuc">
       <created>1611204250757</created>
@@ -256,12 +254,12 @@
       <option name="project" value="LOCAL" />
       <updated>1611584462812</updated>
     </task>
-    <task id="LOCAL-00016" summary="DayCuaDuc">
-      <created>1611589449275</created>
+    <task id="LOCAL-00016" summary="hieu">
+      <created>1611590953379</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1611589449275</updated>
+      <updated>1611590953379</updated>
     </task>
     <option name="localTasksCounter" value="17" />
     <servers />
@@ -286,6 +284,7 @@
     <MESSAGE value="Day cua quan" />
     <MESSAGE value="Hieu ne" />
     <MESSAGE value="DayCuaDuc" />
-    <option name="LAST_COMMIT_MESSAGE" value="DayCuaDuc" />
+    <MESSAGE value="hieu" />
+    <option name="LAST_COMMIT_MESSAGE" value="hieu" />
   </component>
 </project>
