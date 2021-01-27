@@ -17,7 +17,7 @@ body {
 .full-content-contact h1{
     color:#517A85;
     font-size:70px;
-    line-height:55px;
+    margin:55px 20px 0 0;
     font-family:'Palanquin Dark',sans-serif;
 }
 .map-input-contact{
@@ -63,7 +63,7 @@ body {
     border-radius:5px;
     background:#2EB1AB;
     border: none;
-    color:#517A85;
+    color:#ffffff;
     font-family:'Quicksand',sans-serif;
     font-size:20px;
     font-weight:900;

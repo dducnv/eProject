@@ -4,6 +4,21 @@ body{
 a{
     font-family:'',sans-serif;
 }
-p{
-    font-family:'',sans-serif;
+h4{
+    font-family:'Roboto',sans-serif;
+    font-weight:450;
+    font-size:20px;
+    color: black;
+}
+h3{
+    font-family:'Roboto',sans-serif;
+}
+p{;
+    border-color:#202124;
+    color: #202124;
+    display:inline;
+    gap:normal;
+    font-family:'Roboto',sans-serif;
+    letter-spacing:0.2px;
+    line-height:20px;
 }

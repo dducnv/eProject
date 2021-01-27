@@ -10,6 +10,7 @@ footer h3{
 .footer p{
     color:#395D5E;
     font-size:15px;
+    line-height:3px;
     font-family: 'Quicksand',sans-serif;
 }
 footer ul li{

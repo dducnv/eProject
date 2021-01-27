@@ -19,16 +19,63 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="hieu">
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_10_40_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_10_40_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_21_2021_11_45_AM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_22_2021_10_36_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_22_2021_10_36_AM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_23_2021_9_08_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_23_2021_9_08_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_24_2021_11_03_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_24_2021_11_03_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_10_38_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_10_38_AM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_11_04_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_11_04_AM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_3_25_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_3_25_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_9_59_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_9_59_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/Souvenir shop.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/Souvenir shop.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/AmThucDnNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/CoronaNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/CoronaNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/EventNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/EventNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/MemberNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/MemberNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/NoelNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/NoelNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/Souvenir shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/Souvenir shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/VuichoiNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/VuichoiNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/biggestRollerCoasterNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/biggestRollerCoasterNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/event 2021.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/event 2021.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/event end of year.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/event end of year.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/hightway boat.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/hightway boat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/promotion ticker.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/promotion ticker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/Gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Csschung.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Csschung.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/NewHome.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/NewHome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/NewsHome.css" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/NewsHome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.css" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/.jscsrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/DEPLOY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/dist/css/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/dist/css/lightbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/dist/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/dist/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/dist/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/dist/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox-plus-jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox-plus-jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/dist/js/lightbox.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/examples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-2.11.3/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,6 +203,14 @@
       <workItem from="1611574632809" duration="6020000" />
       <workItem from="1611584386433" duration="1047000" />
       <workItem from="1611625527340" duration="4290000" />
+      <workItem from="1611635890731" duration="951000" />
+      <workItem from="1611658975303" duration="1841000" />
+      <workItem from="1611662929574" duration="7283000" />
+      <workItem from="1611678061588" duration="1503000" />
+      <workItem from="1611712826004" duration="299000" />
+      <workItem from="1611713601669" duration="3032000" />
+      <workItem from="1611728160199" duration="1713000" />
+      <workItem from="1611758703978" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="NaycuaDuc">
       <created>1611204250757</created>
@@ -269,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611590953379</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="hieu">
+      <created>1611634763013</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1611634763013</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
