@@ -120,7 +120,6 @@ body{
     text-align:center;
 }
 .product-otherNew p{
-    width:230px;
     margin:10px;
     text-align: left;
 }
@@ -137,9 +136,10 @@ body{
 }
 
 .product-otherNew{
+    color: #000000;
     background-color: #ffffff;
-    width:250px;
-    height:400px;
+    width:280px;
+    height:450px;
     display:inline-block;
     margin:10px;
     border-radius:5px;
@@ -175,6 +175,12 @@ body{
     text-align: center;
 }
 /*footer*/
-
-.
-
+.title{
+    width: 100%;
+    font-size: 24px;
+    float: left;
+}
+.title .date-time{
+    margin-left:2%;
+    margin-bottom:10px;
+}
