@@ -114,11 +114,12 @@ nav .menu li{
 nav.sticky{
     padding:10px 10px 10px;
     width:100%;
-    background-color:rgba(177,225,223,.7);
+    background-color:#ffffff;
     transition:0.5s;
 }
 .sticky ul .menu-2{
-    background-color:rgba(177,225,223,.4);
+    padding-top:15px;
+    background-color:#ffffff;
     width:150px;
     height:auto;
     top:20px;

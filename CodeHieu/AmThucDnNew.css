@@ -1,12 +1,13 @@
 *{
     margin:0;
     padding:0;
-    text-decoration: none;
-    list-style: none;
 }
 body{
     background-color: #e2e39e;
     font-size:14px;
+}
+img{
+    margin:10px;
 }
 .caption-corona p{
     margin-top:0;
@@ -25,6 +26,12 @@ body{
     padding-left: 1%;
     font-size: 30px;
     font-weight: 800;
+}
+.full-text-ContentNew{
+    width:80%;
+    height:auto;
+    text-align: left;
+    margin: auto;
 }
 .date-time span{
     color: #adadad;
@@ -59,8 +66,13 @@ body{
     font-weight: 800;
 }
 .caption1{
-    padding-left: 1%;
+    padding-left: 2%;
     font-size: 14px;
+
+    list-style-type:circle;
+}
+.caption1 li{
+    list-style: inherit;
 }
 .full-contentNew{
     width:90%;
@@ -83,6 +95,7 @@ body{
     font-size: 14px;
     margin-top: 1%;
 }
+
 #quick-food{
     width: 60%;
     height:50%;
@@ -120,7 +133,6 @@ body{
     text-align:center;
 }
 .product-otherNew p{
-    width:230px;
     margin:10px;
     text-align: left;
 }
@@ -137,9 +149,10 @@ body{
 }
 
 .product-otherNew{
+    color: #000000;
     background-color: #ffffff;
-    width:250px;
-    height:400px;
+    width:280px;
+    height:450px;
     display:inline-block;
     margin:10px;
     border-radius:5px;
@@ -161,6 +174,7 @@ body{
     margin:30px auto;
 }
 
+
 .bread-soup img{
     width:50%;
     height: 50%;
@@ -175,6 +189,12 @@ body{
     text-align: center;
 }
 /*footer*/
-
-.
-
+.title{
+    width: 100%;
+    font-size: 24px;
+    float: left;
+}
+.title .date-time{
+    margin-left:2%;
+    margin-bottom:10px;
+}

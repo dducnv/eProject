@@ -50,3 +50,8 @@
     color: #265a88;
     text-decoration: none;
 }
+h2{
+    font-family:'Roboto',sans-serif;
+    font-weight:600;
+    font-size:30px;
+}
