@@ -10,9 +10,9 @@
     margin:auto;
 }
 .main img{
-    width:600px;
+    width:800px;
     height:450px;
-    margin:0 70px;
+    margin:4px 2px;
 }
 .main{
     width:90%;
@@ -43,13 +43,14 @@
     margin:20px;
     object-fit: cover;
     overflow: hidden;
+    background-color: #a6e1ec;
 }
 .productEntertainment:hover img{
     transform: scale(1.1);
     transition:0.5s;
 }
 .productEntertainment:hover h3{
-    color:red;
+    color: black;
 }
 .productEntertainment img{
     width: 250px;
@@ -60,18 +61,22 @@ h2{
     color: #2aabd2;
 }
 h3{
-    color: yellow;
+    color:#007ca5;
 }
 p{
     font-size: 18px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: normal;
 }
 .lulu{
+    text-align: center;
     width:1300px;
-    height:30px;
+    height:20px;
     border:1px solid;
     display: inline-block;
     margin:20px;
     object-fit: cover;
-    background-color: darkcyan;
+    background-color: yellow;
     text-align: center;
 }
