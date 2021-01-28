@@ -6,9 +6,6 @@ body{
     background-color: #e2e39e;
     font-size:14px;
 }
-img{
-    margin:10px;
-}
 .caption-corona p{
     margin-top:0;
     font-size: 20px;
@@ -140,20 +137,22 @@ img{
     margin:10px;
     width:230px;
 }
-.product-otherNew img{
+.product-otherNew .Img-content-OtherNew{
     width:90%;
-    margin:13px;
-    height:150px;
-    border-radius:5px;
-
+    height:200px;
+    overflow: hidden;
+    margin:14px auto;
+    object-fit:cover;
 }
-
+.product-otherNew .Img-content-OtherNew img{
+    width:280px;
+    height:240px;
+}
 .product-otherNew{
     color: #000000;
     background-color: #ffffff;
     width:280px;
     height:450px;
-    text-align: left;
     display:inline-block;
     margin:10px;
     border-radius:5px;
@@ -166,7 +165,7 @@ img{
 .content-TextOtherNew{
     width:80%;
     height:auto;
-    margin: auto;
+    margin:30px auto;
 }
 .product-otherNew:hover p{
     color:#2EB1AB;
