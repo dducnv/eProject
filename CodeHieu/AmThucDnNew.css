@@ -153,6 +153,7 @@ img{
     background-color: #ffffff;
     width:280px;
     height:450px;
+    text-align: left;
     display:inline-block;
     margin:10px;
     border-radius:5px;
@@ -162,8 +163,10 @@ img{
     background-color: #F6F7EB;
     box-shadow:2px 2px 10px rgba(0,0,0,0.2);
 }
-.product-otherNew:hover h3{
-    color:#2EB1AB;
+.content-TextOtherNew{
+    width:80%;
+    height:auto;
+    margin: auto;
 }
 .product-otherNew:hover p{
     color:#2EB1AB;
