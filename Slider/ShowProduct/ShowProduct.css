@@ -3,6 +3,7 @@
     height:450px;
     overflow: hidden;
     object-fit: cover;
+    border-radius:10px;
 }
 .room-preview img{
     height:70px;
