@@ -19,16 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="Day la cua quan">
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="qua">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2021_1_44_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_28_2021_1_44_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/1FoodHouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/1FoodHouse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/2LittleTokyoDaNang.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/2LittleTokyoDaNang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/3DaNangSouvenirs&amp;Coffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/3DaNangSouvenirs&amp;Coffee.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/4FaifoGrill.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/4FaifoGrill.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/5TheGusto.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/5TheGusto.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/6Hot&amp;Cold.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/6Hot&amp;Cold.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/img/cv2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/img/suonnuonglava.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/biggestRollerCoasterNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/biggestRollerCoasterNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Csschung.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nav&amp;Footer,NextPageCSS/Csschung.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/CongVien.css" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/CongVien.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +157,7 @@
       <workItem from="1611625527340" duration="4290000" />
       <workItem from="1611735727458" duration="708000" />
       <workItem from="1611800531892" duration="3038000" />
+      <workItem from="1611848130295" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="NaycuaDuc">
       <created>1611204250757</created>
@@ -292,21 +292,7 @@
       <option name="project" value="LOCAL" />
       <updated>1611802048739</updated>
     </task>
-    <task id="LOCAL-00020" summary="Day la cua quan">
-      <created>1611822659963</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1611822659963</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Day la cua quan">
-      <created>1611822675737</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1611822675737</updated>
-    </task>
-    <option name="localTasksCounter" value="22" />
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,29 +317,7 @@
     <MESSAGE value="DayCuaDuc" />
     <MESSAGE value="hieu" />
     <MESSAGE value="DucHandSome" />
-    <MESSAGE value="Day la cua quan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day la cua quan" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="524" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611848215347">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="524" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1611848215347" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611848660113">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1611848660113" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1611807737364">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1611807737364" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611822708654">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611822708654" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611818093690">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611818093690" />
+    <MESSAGE value="Duc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Duc" />
   </component>
 </project>

@@ -1,0 +1,13 @@
+.main-IMG{
+    width:700px;
+    height:450px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.room-preview img{
+    height:70px;
+    width:100px;
+    display:inline-block;
+    margin:10px 5px;
+    float: left;
+}
