@@ -3,11 +3,12 @@ body{
 }
 .embrace{
     width:90%;
-    height:700px;
+    height:650px;
     display:flex;
     margin:auto;
     padding:27px;
     border-radius:10px;
+    border: 2px solid #b1e1df;
 }
 
 .document{
@@ -48,14 +49,17 @@ body{
     width:90%;
     height:auto;
     margin: auto;
+    padding-top: 40px;
 }
 .title {
     width:15%;
-    height:80px;
+    height:90px;
     padding-top: 5px;
     padding-left: 7px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    background-color: #b1e1df;
+    text-align: center;
 }
 .title h2{
     font-size: 40px;
@@ -67,13 +71,7 @@ body{
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
-}
-.small-item{
-    width: 100%;
-    height: 50%;
-    display: flex;
-    text-align:center;
-
+    border: 2px solid #b1e1df;
 }
 .douong{
     width:300px;
@@ -83,6 +81,7 @@ body{
     border:1px solid black;
     margin:10px;
     overflow: hidden;
+    background-image: url(../QuanBadboizzz/img/bien.jpg);
 }
 .douong img{
     height: 235px;
@@ -94,6 +93,29 @@ body{
     text-align: center;
     font-size: 30px;
     font-weight: 700;
+    color: #F6F7EB;
+}
+.food{
+    width:300px;
+    height:340px;
+    display:inline-block;
+    border-radius: 10px;
+    border:1px solid black;
+    margin:10px;
+    overflow: hidden;
+    background-image: url(../QuanBadboizzz/img/go.png);
+}
+.food img{
+    height: 235px;
+    margin: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.food h3{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: #f7f7f7;
 }
 
 
