@@ -19,6 +19,10 @@
 }
 .NameContent{
     margin:0;
+    color: #1b6d85;
+}
+.overall:hover a .NameContent{
+    color:#2EB1AB;
 }
 h2{
     font-family:'Roboto',sans-serif;
@@ -52,6 +56,8 @@ h2{
     height:190px;
     margin:10px;
     border-radius:5px;
+    overflow: hidden;
+    object-fit: cover;
 }
 .date-time span{
     color: #adadad;
