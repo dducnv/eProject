@@ -49,8 +49,19 @@
     background-color:#ffffff;
     border-radius:10px;
 }
+.productEntertainment h3{
+    color: #1b6d85;
+}
 .productEntertainment:hover h3{
-    color: black;
+    color: #2EB1AB;
+}
+.productEntertainment:hover{
+    transform: translateY(-8px);
+    transition:0.5s;
+
+}
+.productEntertainment:hover a{
+    text-decoration:none;
 }
 .productEntertainment img{
     object-fit: cover;
