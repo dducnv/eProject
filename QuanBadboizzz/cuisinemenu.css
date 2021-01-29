@@ -29,6 +29,9 @@ body{
 h2{
     font-family: 'Roboto',sans-serif;
 }
+p{
+    font-size: 20px;
+}
 .drink{
     width:100%;
     height:auto;
