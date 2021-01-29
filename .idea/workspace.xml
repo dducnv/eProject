@@ -19,19 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="Day la cua quan">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_22_2021_10_36_AM_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_22_2021_10_36_AM__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_01_2021_10_14_SA_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_01_2021_10_14_SA__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_01_2021_10_23_SA_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_01_2021_10_23_SA__Default_Changelist_.xml" beforeDir="false" />
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_29_2021_10_12_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_29_2021_10_12_AM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/1FoodHouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/1FoodHouse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/2LittleTokyoDaNang.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/2LittleTokyoDaNang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/3DaNangSouvenirs&amp;Coffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/3DaNangSouvenirs&amp;Coffee.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/cuisinemenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/cuisinemenu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/SouvenirShop.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/SouvenirShop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/CongVien.css" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/CongVien.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien8.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,8 +162,6 @@
       <workItem from="1611735727458" duration="708000" />
       <workItem from="1611800531892" duration="3038000" />
       <workItem from="1611848130295" duration="3424000" />
-      <workItem from="1611929271502" duration="942000" />
-      <workItem from="1611930944528" duration="6363000" />
     </task>
     <task id="LOCAL-00001" summary="NaycuaDuc">
       <created>1611204250757</created>
@@ -361,14 +359,7 @@
       <option name="project" value="LOCAL" />
       <updated>1611890671927</updated>
     </task>
-    <task id="LOCAL-00029" summary="Day la cua quan">
-      <created>1611896778717</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1611896778717</updated>
-    </task>
-    <option name="localTasksCounter" value="30" />
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,19 +387,5 @@
     <MESSAGE value="DucHandSome" />
     <MESSAGE value="Day la cua quan" />
     <option name="LAST_COMMIT_MESSAGE" value="Day la cua quan" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611938277888">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1611938277888" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611896782547">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611896782547" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1611936517029">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1611936517029" />
   </component>
 </project>
