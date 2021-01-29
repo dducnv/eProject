@@ -3,6 +3,7 @@
     padding:0;
     font-family:sans-serif;
     text-decoration: none;
+    list-style: none;
 }
 .full-contenCuisine{
     width:90%;
@@ -11,6 +12,10 @@
 }
 .date-time{
     margin:10px 0 0 ;
+    text-decoration:none;
+}
+.date-time:hover{
+    text-decoration: none;
 }
 .NameContent{
     margin:0;
@@ -32,11 +37,8 @@ h2{
 .overall:hover{
     background-color: blanchedalmond;
 }
-.overall:hover .see-more{
-    color:#2EB1AB;
-}
 .overall a{
-    font-weight: 700;
+    text-decoration: none;
 }
 .folder{
     display: flex;
@@ -56,9 +58,4 @@ h2{
 }
 .date-time{
     display: flex;
-}
-
-.see-more:hover{
-    color: #265a88;
-    text-decoration: none;
 }
