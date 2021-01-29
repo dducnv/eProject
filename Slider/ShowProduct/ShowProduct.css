@@ -5,6 +5,10 @@
     object-fit: cover;
     border-radius:10px;
 }
+.main-IMG img{
+    width:700px;
+    height:450px;
+}
 .room-preview img{
     height:70px;
     width:100px;

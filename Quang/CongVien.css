@@ -5,12 +5,12 @@
     list-style:none;
 }
 .full-contentEntertainment{
-    width:90%;
+    width:100%;
     height:auto;
     margin:auto;
 }
 .main{
-    width:90%;
+    width:80%;
     height:600px;
     margin:30px auto;
     padding:40px 10px;
@@ -53,6 +53,8 @@
     color: black;
 }
 .productEntertainment img{
+    object-fit: cover;
+    overflow: hidden;
     width: 250px;
     height: 180px;
     transition:0.5s;
