@@ -4,19 +4,24 @@ body{
 }
 .embrace{
     width:90%;
-    height:650px;
+    height:600px;
     display:flex;
     margin: 20px auto;
     padding:27px;
-    border-radius:10px;
     background-color: #ffffff;
 }
-.document{
-    width: 50%;
+.item-content{
+    margin:0 30px;;
+}
+.full-contentProductCuisine{
+    width:90%;
     height: auto;
-    margin-right: 20px;
-    padding: 25px;
-    border-radius: 10px;
+    margin: auto;
+}
+.document{
+    text-align:left;
+    width:600px;
+    height:450px;
 }
 .h1{
     font-family: 'Roboto',sans-serif;
@@ -24,13 +29,8 @@ body{
 h2{
     font-family: 'Roboto',sans-serif;
 }
-.document p{
-    padding-top: 10px;
-    font-size: 20px;
-    font-family: 'Roboto',sans-serif;
-}
 .drink{
-    width:90%;
+    width:100%;
     height:auto;
     margin: auto;
     padding-top: 40px;
@@ -53,11 +53,11 @@ h2{
     border-bottom-left-radius: 10px;
 }
 .drinks{
-    width:300px;
-    height:370px;
+    width:250px;
+    height:350px;
     display:inline-block;
     border-radius: 10px;
-    margin:10px;
+    margin:15px;
     overflow: hidden;
     box-shadow:2px 2px 10px rgba(0,0,0,0.3);
     object-fit: cover;
