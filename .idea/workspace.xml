@@ -19,10 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="Day la cua quan">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_29_2021_8_26_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_29_2021_8_26_AM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/NewsHome.css" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/NewsHome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/MenuEntertainment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/MenuEntertainment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/CoronaNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/CoronaNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/EventNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/EventNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/MemberNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/MemberNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/NoelNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/NoelNew.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/event 2021.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/event 2021.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/event end of year.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/event end of year.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeHieu/hightway boat.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/hightway boat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/NewHome.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/NewHome.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -375,8 +382,8 @@
     <MESSAGE value="DayCuaDuc" />
     <MESSAGE value="hieu" />
     <MESSAGE value="Duc" />
-    <MESSAGE value="Day la cua quan" />
     <MESSAGE value="DucHandSome" />
-    <option name="LAST_COMMIT_MESSAGE" value="DucHandSome" />
+    <MESSAGE value="Day la cua quan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day la cua quan" />
   </component>
 </project>
