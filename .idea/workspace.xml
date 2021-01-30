@@ -20,18 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_29_2021_10_12_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_29_2021_10_12_AM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeHieu/SouvenirShop.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/SouvenirShop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/CongVien.css" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/CongVien.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/congvien8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/EXPERIENCE.html" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/EXPERIENCE.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/Experience.css" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Experience.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DucHandSome/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +154,7 @@
       <workItem from="1611735727458" duration="708000" />
       <workItem from="1611800531892" duration="3038000" />
       <workItem from="1611848130295" duration="3424000" />
+      <workItem from="1611937088061" duration="3709000" />
     </task>
     <task id="LOCAL-00001" summary="NaycuaDuc">
       <created>1611204250757</created>
@@ -359,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611890671927</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Day la cua quan">
+      <created>1611932649755</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1611932649755</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
