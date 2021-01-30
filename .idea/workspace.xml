@@ -19,9 +19,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="Day la cua quan">
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Quang/FairyTeaHouse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quang/FestivalCarousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quang/SunWheel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quang/imgFairy Tea House/download (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quang/imgFairy Tea House/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quang/imgFestivalCarousel/4be09305453ca67b297d5a83fb0fb97b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quang/imgFestivalCarousel/ve-cong-vien-chau-a-da-nang-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quang/imgSunWheel/0006884_ve-asia-park-cong-vien-chau-a-sunword-da-nang.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quang/imgSunWheel/SUN-WHEEL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quang/imgSunWheel/cabin-vong-quay-mat-troi-sun-wheel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quang/imgSunWheel/download.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/4FaifoGrill.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/4FaifoGrill.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/MenuEntertainment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/MenuEntertainment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/Amusement-park-on-water.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/SingaporeSling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/QeenCobra.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/PortofSkyTreasure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/ParadiseFall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/LoveLocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/congvien8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/TheFlyingKirins.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +51,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -61,7 +80,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/QuanBadboizzz/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Quang/imgSunWheel" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,11 +92,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\eProject-6\Quang\imgSunWheel" />
+      <recent name="D:\eProject-6\Quang\imgFestivalCarousel" />
+      <recent name="D:\eProject-6\Quang\imgFairy Tea House" />
       <recent name="E:\untitled\untitled\eProject-Quan\QuanBadboizzz\img" />
       <recent name="D:\eProject-Quang\Quang\img" />
-      <recent name="D:\eProject-6" />
-      <recent name="D:\eProject-6\IMG" />
-      <recent name="D:\eProject-6\Slider" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\untitled\untitled\eProject-Quan\QuanBadboizzz\img" />
@@ -376,6 +395,7 @@
     <MESSAGE value="Duc" />
     <MESSAGE value="DucHandSome" />
     <MESSAGE value="Day la cua quan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day la cua quan" />
+    <MESSAGE value="CodeCuaDuc" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeCuaDuc" />
   </component>
 </project>
