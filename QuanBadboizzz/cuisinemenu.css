@@ -1,6 +1,8 @@
-body{
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
     list-style: none;
-    background-color: #F6F7EB;
 }
 .embrace{
     width:90%;
@@ -23,15 +25,8 @@ body{
     width:600px;
     height:450px;
 }
-.h1{
-    font-family: 'Roboto',sans-serif;
-}
-h2{
-    font-family: 'Roboto',sans-serif;
-}
-p{
-    font-size: 20px;
-}
+
+
 .drink{
     width:100%;
     height:auto;
@@ -55,6 +50,9 @@ p{
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
 }
+.drinks:hover{
+    transform: translateY(-8px);
+    transition:0.5s;}
 .drinks{
     width:250px;
     height:350px;

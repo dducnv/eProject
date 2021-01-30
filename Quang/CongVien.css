@@ -24,7 +24,9 @@
 .content-entertainment{
     text-align:left;
     width:600px;
-    height:450px;
+    height:500px;
+    background-color: #f6f6f6;
+    padding:0 20px;
 
 }
 .Full-OtherExperience-Entertainmen{
@@ -48,6 +50,7 @@
     overflow: hidden;
     background-color:#ffffff;
     border-radius:10px;
+
 }
 .productEntertainment h3{
     color: #1b6d85;
@@ -70,19 +73,4 @@
     height: 180px;
     transition:0.5s;
 }
-h2{
-    color: #2aabd2;
-}
-h3{
-    color:#007ca5;
-}
-.lulu{
-    text-align: center;
-    width:1300px;
-    height:20px;
-    border:1px solid;
-    display: inline-block;
-    margin:20px;
-    object-fit: cover;
-    background-color: yellow;
-}
+

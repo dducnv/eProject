@@ -15,4 +15,8 @@
     display:inline-block;
     margin:10px 5px;
     float: left;
+    cursor: pointer;
+}
+.room-preview:hover img{
+
 }
