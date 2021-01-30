@@ -20,27 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Quang/FairyTeaHouse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quang/FestivalCarousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quang/SunWheel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quang/imgFairy Tea House/download (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quang/imgFairy Tea House/download.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quang/imgFestivalCarousel/4be09305453ca67b297d5a83fb0fb97b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quang/imgFestivalCarousel/ve-cong-vien-chau-a-da-nang-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quang/imgSunWheel/0006884_ve-asia-park-cong-vien-chau-a-sunword-da-nang.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quang/imgSunWheel/SUN-WHEEL.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quang/imgSunWheel/cabin-vong-quay-mat-troi-sun-wheel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quang/imgSunWheel/download.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/MenuEntertainment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/MenuEntertainment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/Amusement-park-on-water.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/SingaporeSling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/QeenCobra.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/PortofSkyTreasure.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/ParadiseFall.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/LoveLocks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quang/congvien8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/TheFlyingKirins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/Amusement-park-on-water.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/Amusement-park-on-water.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/FairyTeaHouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/FairyTeaHouse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/FestivalCarousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/FestivalCarousel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/LoveLocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/LoveLocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/ParadiseFall.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/ParadiseFall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/PortofSkyTreasure.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/PortofSkyTreasure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/QeenCobra.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/QeenCobra.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/SingaporeSling.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/SingaporeSling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/SunWheel.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/SunWheel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/TheFlyingKirins.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/TheFlyingKirins.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -368,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611890671927</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="CodeCuaDuc">
+      <created>1611980054621</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1611980054621</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
