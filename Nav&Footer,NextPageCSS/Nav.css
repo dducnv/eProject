@@ -17,10 +17,12 @@
     margin:auto;
     text-align:center;
     padding-top:230px;
+    padding-right:40px;
     display:inline-block;
     height:260px;
     width:100%;
-    background: #fbfcf7;
+    background:#fcfcfc;
+    box-shadow:2px 2px 20px rgba(0,0,0,0.3);
 }
 .navbar{
     width:100%;
@@ -114,7 +116,7 @@ nav .menu li{
 nav.sticky{
     padding:10px 10px 10px;
     width:100%;
-    background-color:#ffffff;
+    background-color:#b1e1df;
     transition:0.5s;
 }
 .sticky ul .menu-2{

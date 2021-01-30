@@ -30,3 +30,7 @@ function initMap() {
         map: map2
     });
 }
+function myFunction() {
+    document.getElementById("myForm").submit(
+    );
+}

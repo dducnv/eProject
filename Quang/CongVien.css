@@ -16,7 +16,6 @@
     padding:40px 10px;
     display: flex;
     text-align: center;
-    background-color:#ffffff;
 }
 .item-content{
     margin:0 30px;
@@ -25,7 +24,6 @@
     text-align:left;
     width:600px;
     height:500px;
-    background-color: #f6f6f6;
     padding:0 20px;
 
 }

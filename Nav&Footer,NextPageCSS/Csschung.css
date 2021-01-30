@@ -1,5 +1,10 @@
 body{
-    background:#f6f7eb;
+    background-image: url("../IMG/background.png");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #F6F7EB;
 }
 a{
     font-family:'',sans-serif;
