@@ -11,7 +11,7 @@
 .slider-backgroud-home{
     width:100%;
     height:800px;
-    background-image: url("../IMG/eProject slides IMG/slides1.jpg");
+    background-image:url("../IMG/eProject slides IMG/slides1.jpg");
     background-size:cover;
     background-attachment:fixed;
 }
@@ -148,10 +148,15 @@
     border-radius:5px;
     box-shadow:2px 2px 30px rgba(0,0,0,0.2);
     background-color:#ffffff;
+
+}
+.experie-content p{
+    font-style: italic;
 }
 .experie-content .experie{
     display:inline-block;
     margin:40px 60px;
+    width:260px;
 }
 .experie-content .experie .img1-experie{
     width:38px;
@@ -169,6 +174,9 @@
     padding:20px 0;
     width:100%;
     height:1000px;
+}
+.experie-title{
+    font-family:'Palanquin Dark',sans-serif;
 }
 .Hot-newshome h1{
     color:#517A85;
