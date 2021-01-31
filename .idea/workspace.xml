@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="Day la cua quan">
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/1FoodHouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/1FoodHouse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/2LittleTokyoDaNang.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/2LittleTokyoDaNang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/3DaNangSouvenirs&amp;Coffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/3DaNangSouvenirs&amp;Coffee.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/4GiaVinhchickenrice.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/4GiaVinhchickenrice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/5TheGusto.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/5TheGusto.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/6Hot&amp;Cold.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/6Hot&amp;Cold.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.html" afterDir="false" />
-    </list>
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="Day la cua quan" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -404,7 +396,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612113963788</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Day la cua quan">
+      <created>1612114883736</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1612114883736</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Day la cua quan">
+      <created>1612115109003</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1612115109003</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,9 +441,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Day la cua quan" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612113980173">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612115113462">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612113980173" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612115113462" />
   </component>
 </project>
