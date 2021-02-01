@@ -86,3 +86,8 @@ h2{
     height: 180px;
     transition:0.5s;
 }
+.character-story{
+    height: 400px;
+    width: 400px;
+    overflow-y: scroll;
+}
