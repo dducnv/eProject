@@ -76,8 +76,9 @@ h2{
     text-decoration: none;
 }
 .drinks img{
-    height: 235px;
-    margin: auto;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    object-fit: cover;
+    overflow: hidden;
+    width: 250px;
+    height: 180px;
+    transition:0.5s;
 }
