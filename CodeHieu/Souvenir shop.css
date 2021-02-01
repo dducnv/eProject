@@ -11,6 +11,13 @@ body{
     text-align: center;
     background-color:#ffffff;
 }
+.content-entertainment p{
+    border-color: #202124;
+    color: #202124;
+    font-family: 'Roboto',sans-serif;
+    letter-spacing:0.2px;
+    line-height: 20px;
+}
 .col-md-4{
     text-align: left;
     margin-top: 12%;
@@ -104,6 +111,7 @@ header{
     margin:30px auto;
     padding: 50px 0 0 0;
 }
+
 
 .product-otherNew img{
     width: 90%;
