@@ -19,25 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="Day la cua quan">
-      <change afterPath="$PROJECT_DIR$/CodeHieu/park-character.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageHieu/park-character-titlle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageHieu/park-character-titlle1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageHieu/park-character.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageHieu/park-character1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageHieu/park-character2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageHieu/park-character3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageHieu/park-character4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageHieu/park-character5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageHieu/park-character6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageHieu/park-character7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageHieu/park-character8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageHieu/park-character9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_24_2021_11_03_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_24_2021_11_03_PM__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/CodeHieu/SouvenirShop.html" beforeDir="false" afterPath="$PROJECT_DIR$/CodeHieu/SouvenirShop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/3DaNangSouvenirs&amp;Coffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/3DaNangSouvenirs&amp;Coffee.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +61,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imageHieu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imageHieu/ImgNew" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -89,19 +72,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\mylaptop\WebstormProjects\eProject-hieu\imageHieu" />
-      <recent name="D:\eProject-6\imageHieu\ImgNew" />
-      <recent name="D:\eProject-6\IMG" />
-      <recent name="D:\eProject-6\Quang\imgSunWheel" />
-      <recent name="D:\eProject-6\Quang\imgFestivalCarousel" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\untitled\untitled\eProject-Quan\QuanBadboizzz\img" />
       <recent name="D:\eProject-6\DucHandSome" />
       <recent name="D:\eProject-6\JS" />
       <recent name="D:\eProject-6\Quan bad boiz" />
       <recent name="D:\eProject-6\Quan bad boiz\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\eProject-6\imageHieu\ImgNew" />
+      <recent name="D:\eProject-6\IMG" />
+      <recent name="D:\eProject-6\Quang\imgSunWheel" />
+      <recent name="D:\eProject-6\Quang\imgFestivalCarousel" />
+      <recent name="D:\eProject-6\Quang\imgFairy Tea House" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -450,14 +433,28 @@
       <option name="project" value="LOCAL" />
       <updated>1612115882173</updated>
     </task>
-    <task id="LOCAL-00041" summary="hieu">
-      <created>1612146354850</created>
+    <task id="LOCAL-00041" summary="DucDepZai">
+      <created>1612147495204</created>
       <option name="number" value="00041" />
       <option name="presentableId" value="LOCAL-00041" />
       <option name="project" value="LOCAL" />
-      <updated>1612146354850</updated>
+      <updated>1612147495204</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="DucDepZai">
+      <created>1612147819101</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1612147819101</updated>
+    </task>
+    <task id="LOCAL-00043" summary="DucDepZai">
+      <created>1612149010712</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1612149010712</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,11 +477,12 @@
     <MESSAGE value="Day cua quan" />
     <MESSAGE value="Hieu ne" />
     <MESSAGE value="DayCuaDuc" />
+    <MESSAGE value="hieu" />
     <MESSAGE value="DucHandSome" />
     <MESSAGE value="CodeCuaDuc" />
     <MESSAGE value="Duc" />
     <MESSAGE value="Day la cua quan" />
-    <MESSAGE value="hieu" />
-    <option name="LAST_COMMIT_MESSAGE" value="hieu" />
+    <MESSAGE value="DucDepZai" />
+    <option name="LAST_COMMIT_MESSAGE" value="DucDepZai" />
   </component>
 </project>

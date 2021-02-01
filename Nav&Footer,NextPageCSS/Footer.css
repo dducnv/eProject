@@ -14,7 +14,7 @@ footer h3{
     font-family: 'Quicksand',sans-serif;
 }
 footer ul li{
-    font-size:20px;
+    font-size:15px;
     font-family:'Quicksand',sans-serif;
 }
 footer ul li span{
@@ -23,6 +23,8 @@ footer ul li span{
 a.email,.phone{
     margin-left:5px;
     color:#2EB1AB;
+    font-size:15px;
+    font-family:'Palanquin Dark',sans-serif;
 }
 a.email:hover,.phone:hover{
     color:#395D5E;
