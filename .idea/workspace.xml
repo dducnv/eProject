@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="" />
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="Day la cua quan">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quang/MenuEntertainment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Quang/MenuEntertainment.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,13 +154,7 @@
       <workItem from="1611800531892" duration="3038000" />
       <workItem from="1611848130295" duration="3424000" />
       <workItem from="1612163157660" duration="4106000" />
-    </task>
-    <task id="LOCAL-00002" summary="NaycuaDuc">
-      <created>1611204496266</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1611204496266</updated>
+      <workItem from="1612172050961" duration="869000" />
     </task>
     <task id="LOCAL-00003" summary="NaycuaDuc">
       <created>1611242383324</created>
@@ -495,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612171220266</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Day la cua quan">
+      <created>1612172171181</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1612172171181</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,9 +535,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1612170595996" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612171829098">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612172175673">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612171829098" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612172175673" />
   </component>
 </project>
