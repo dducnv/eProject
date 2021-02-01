@@ -1,0 +1,36 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_1_24_2021_11_03_PM__Default_Changelist_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/shelf/Uncommitted_changes_before_Update_at_1_24_2021_11_03_PM__Default_Changelist_.xml	(revision 238e90b6355a12ed0a29a7fda00f3e9a7d1dc354)
++++ .idea/shelf/Uncommitted_changes_before_Update_at_1_24_2021_11_03_PM__Default_Changelist_.xml	(revision 238e90b6355a12ed0a29a7fda00f3e9a7d1dc354)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_1_24_2021_11_03_PM_[Default_Changelist]" date="1611504192323" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_24_2021_11_03_PM_[Default_Changelist]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 1/24/2021 11:03 PM [Default Changelist]" />
+-</changelist>
+\ No newline at end of file
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_29_2021_10_12_AM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_29_2021_10_12_AM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_11_04_AM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_11_04_AM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_29_2021_8_26_AM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_29_2021_8_26_AM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_31_2021_11_00_AM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_31_2021_11_00_AM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_27_2021_1_36_PM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_27_2021_1_36_PM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_25_01_2021_10_44_CH__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_25_01_2021_10_44_CH__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_28_2021_11_29_AM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_28_2021_11_29_AM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_28_2021_1_44_PM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_28_2021_1_44_PM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_28_2021_11_33_PM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_28_2021_11_33_PM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_10_38_AM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_10_38_AM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_25_01_2021_1_17_CH__Default_Changelist_1.xml .idea/shelf/Uncommitted_changes_before_Update_at_25_01_2021_1_17_CH__Default_Changelist_1.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_27_01_2021_11_19_CH__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_27_01_2021_11_19_CH__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_25_01_2021_1_17_CH__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_25_01_2021_1_17_CH__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_27_01_2021_11_18_CH__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_27_01_2021_11_18_CH__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_26_01_2021_11_19_SA__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_26_01_2021_11_19_SA__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_25_01_2021_10_27_CH__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_25_01_2021_10_27_CH__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_31_2021_9_55_PM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_31_2021_9_55_PM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_3_25_PM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_3_25_PM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_22_01_2021_9_40_SA__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_22_01_2021_9_40_SA__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_27_01_2021_10_39_CH__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_27_01_2021_10_39_CH__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_31_2021_10_08_PM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_31_2021_10_08_PM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_9_59_PM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_25_2021_9_59_PM__Default_Changelist_.xml
+diff --git .idea/shelf/Uncommitted_changes_before_Update_at_1_23_2021_9_08_PM__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Update_at_1_23_2021_9_08_PM__Default_Changelist_.xml
