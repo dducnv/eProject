@@ -20,7 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="Day la cua quan">
-      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/5TheGusto.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/5TheGusto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_24_2021_11_03_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_24_2021_11_03_PM__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/3DaNangSouvenirs&amp;Coffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/3DaNangSouvenirs&amp;Coffee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuanBadboizzz/homecuisine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanBadboizzz/img/giavinh1.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +157,7 @@
       <workItem from="1611735727458" duration="708000" />
       <workItem from="1611800531892" duration="3038000" />
       <workItem from="1611848130295" duration="3424000" />
+      <workItem from="1612146823229" duration="907000" />
     </task>
     <task id="LOCAL-00001" summary="NaycuaDuc">
       <created>1611204250757</created>
@@ -433,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612115882173</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Day la cua quan">
+      <created>1612121020486</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1612121020486</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,9 +481,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1612120928242" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612115886287">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612121027151">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612115886287" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612121027151" />
   </component>
 </project>
