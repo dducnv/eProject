@@ -5,7 +5,7 @@
     text-decoration:none;
     list-style: none;
 }body{
-     background:#F6F7EB;
+     background: #5bc0de;
  }
 
 .slider-backgroud-home{
@@ -38,7 +38,7 @@
 .name-danang{
     font-size:70px;
     font-weight:500;
-    color:#2EB1AB;
+    color: #f7f7f7;
     margin-bottom:-40px;
     letter-spacing:8px;
     position: relative;
@@ -251,7 +251,7 @@
     height:40px;
     border-radius:10px;
     border: none;
-    background-color: #2EB1AB;
+    background-color: #5bc0de;
     color:#ffffff;
     font-size:15px;
 }
