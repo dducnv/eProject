@@ -86,6 +86,11 @@ h2{
     height: 180px;
     transition:0.5s;
 }
+.Characters-Story{
+    height:400px;
+    width:400px;
+    overflow-y:scroll;
+}
 .character-story{
     height: 400px;
     width: 400px;
