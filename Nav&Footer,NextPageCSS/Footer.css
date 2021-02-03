@@ -1,21 +1,21 @@
 footer{
     width:auto;
     height:350px;
-    background:#B1E1DF;
+    background:#ffffff;
 }
 footer h3{
-    font-family: 'Palanquin Dark',sans-serif;
+    font-family: 'Roboto',sans-serif;
     color:#395D5E;
 }
 .footer p{
     color:#395D5E;
-    font-size:15px;
+    font-size:17px;
     line-height:20px;
-    font-family: 'Quicksand',sans-serif;
+    font-family: '',sans-serif;
 }
 footer ul li{
-    font-size:15px;
-    font-family:'Quicksand',sans-serif;
+    font-size:17px;
+    font-family:'Roboto',sans-serif;
 }
 footer ul li span{
     color:#395D5E;
@@ -23,8 +23,8 @@ footer ul li span{
 a.email,.phone{
     margin-left:5px;
     color:#2EB1AB;
-    font-size:15px;
-    font-family:'Palanquin Dark',sans-serif;
+    font-size:17px;
+    font-family:'Roboto',sans-serif;
 }
 a.email:hover,.phone:hover{
     color:#395D5E;

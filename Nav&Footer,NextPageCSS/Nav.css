@@ -30,6 +30,7 @@
     position:fixed;
     z-index:99999;
     animation: navbar 1s ease-out forwards ;
+    border: none;
 }
 .navbar .nav-search{
     display:none;
@@ -54,7 +55,7 @@
     color:#517A85;
 }
 .border-top span{
-    font-family:'Roboto',sans-serif;
+    font-family:'',sans-serif;
     color:#2EB1AB;
 }
 .border-top a{
@@ -75,11 +76,11 @@
 
 
 .menu-2{
-    position: absolute;
+    position:absolute;
     text-align: left;
     top:30px;
     width:180px;
-    height:auto;
+    height:200px;
     display: none;
 }
 .menu-2 .li-menu2{
@@ -87,6 +88,12 @@
 }
 .li2:hover > .menu-2{
     display: block;
+}
+.search>::placeholder{
+    color:#FFFFFF;
+}
+.sticky .menu-2{
+    padding:15px;
 }
 nav .menu li{
     display:inline-block;
@@ -98,8 +105,8 @@ nav .menu li{
     font-size:20px;
     line-height:30px;
     color:#2EB1AB;
-    font-weight:550;
-    font-family: 'Quicksand',sans-serif;
+    font-weight:700;
+    font-family: 'Roboto',sans-serif;
 }
 
 .li1,.li2,.li4,.li5{
@@ -107,8 +114,7 @@ nav .menu li{
 }
 .menu-nav-text:hover,.menu-nav-text-menu2:hover{
     position:relative;
-    color: #517A85;
-    text-decoration:none;
+    text-decoration:#2EB1AB;
     transition:0.4s;
     cursor:pointer;
 }
@@ -116,15 +122,16 @@ nav .menu li{
 nav.sticky{
     padding:10px 10px 10px;
     width:100%;
-    background-color:#b1e1df;
+    height:70px;
+    background-color:#ffffff;
     transition:0.5s;
     box-shadow:1px 1px 10px rgba(0,0,0,0.3);
     z-index:999;
 }
 .sticky ul .menu-2{
     padding-top:15px;
-    background-color:#b1e1df;
-    width:180px;
+    background-color:#ffffff;
+    width:200px;
     height:auto;
     top:20px;
     z-index:99;
@@ -147,23 +154,25 @@ nav.sticky{
 .nav-search{
     margin-top:4px;
     padding:10px 20px;
-    background-color: #2EB1AB;
+    background-color:#2EB1AB;
     float: right;
+    box-shadow:3px 3px 5px rgba(0,0,0,0.3);
     height:40px;
     justify-content:center;
     cursor: pointer;
     transition:0.75s;
     border-radius:30px;
+    color:#FFFFFF;
 }
 .nav-search:hover > #search{
     width:200px;
 }
 .nav-search .fa-search{
     font-size:16px;
-    color:#b1e1df;
+    color:#ffffff;
 }
 .nav-search .fa-search:hover{
-    color:#F6F7EB;
+    color:#0f0f0f;
 }
 #search{
     background:transparent;

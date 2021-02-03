@@ -16,9 +16,10 @@
     padding:40px 10px;
     display: flex;
     text-align: center;
+    background-color: #FFFFFF;
 }
 .item-content{
-    margin:0 30px;
+    margin:0 20px;
 
 }
 .content-entertainment{
@@ -27,6 +28,17 @@
     height:500px;
     padding:0 20px;
 }
+.content-entertainment h1{
+    font-size:30px;
+    font-weight:700;
+}
+.Story-Entertainment{
+    height: 400px;
+    width: 400px;
+    overflow-y: scroll;
+    margin:30px 0;
+}
+
 .Full-OtherExperience-Entertainmen{
     width:100%;
     height:auto;
@@ -43,7 +55,7 @@
     height:320px;
     box-shadow:2px 2px 10px rgba(0,0,0,0.3);
     display: inline-block;
-    margin:25px;
+    margin:15px;
     object-fit: cover;
     overflow: hidden;
     background-color:#ffffff;
