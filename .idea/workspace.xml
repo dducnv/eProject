@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DucHandSome/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DucHandSome/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/DucHandSome/contact.css" afterDir="false" />
-    </list>
+    <list default="true" id="0eeb7d52-e3aa-46f0-91fe-63eda7a66ce0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,14 +159,7 @@
       <workItem from="1612234795658" duration="3093000" />
       <workItem from="1612268430094" duration="14575000" />
       <workItem from="1612318335075" duration="5547000" />
-      <workItem from="1612324039737" duration="674000" />
-    </task>
-    <task id="LOCAL-00012" summary="Day cua quan">
-      <created>1611484458579</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1611484458579</updated>
+      <workItem from="1612324039737" duration="992000" />
     </task>
     <task id="LOCAL-00013" summary="Hieu ne">
       <created>1611559155584</created>
@@ -508,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612323780397</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Duc">
+      <created>1612325025927</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1612325025928</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,9 +530,9 @@
     <MESSAGE value="hieu" />
     <MESSAGE value="DucHandSome" />
     <MESSAGE value="CodeCuaDuc" />
-    <MESSAGE value="Duc" />
     <MESSAGE value="DucDepZai" />
     <MESSAGE value="Day la cua quan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day la cua quan" />
+    <MESSAGE value="Duc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Duc" />
   </component>
 </project>
