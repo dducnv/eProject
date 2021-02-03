@@ -1,16 +1,13 @@
 *{
     padding:0;
     margin:0;
-    font-family:'Roboto',sans-serif;
+    font-family: sans-serif;
     text-decoration:none;
     list-style: none;
-}body {
-     background: #F6F7EB;
+}body{
+     background: #5bc0de;
  }
-.navbar{
-    background: -webkit-linear-gradient(top, #ffffff 1%, transparent 100%);
-    height:250px;
-}
+
 .slider-backgroud-home{
     width:100%;
     height:800px;
@@ -28,6 +25,52 @@
     display: block;
     text-transform: uppercase;
 }
+.wellcome{
+    color:#2EB1AB;
+    width:auto;
+    font-size:40px;
+    font-weight:500;
+    text-shadow: #1a736f 2px 2px;
+    animation: text2 0.75s ease-out forwards;
+    font-family: 'Quicksand',sans-serif;
+
+}
+.name-danang{
+    font-size:70px;
+    font-weight:500;
+    color: #f7f7f7;
+    margin-bottom:-40px;
+    letter-spacing:8px;
+    position: relative;
+    font-family: 'Noto Serif',sans-serif;
+    animation: text 0.75s ease-out forwards;
+    text-shadow: #1a736f 2px 2px;
+}
+@keyframes text {
+    0%{
+        opacity:0.1;
+        margin-top:100px;
+
+    }
+    100% {
+        opacity: 1;
+        margin-top: 0;
+    }
+
+}
+@keyframes text2 {
+    0%{
+        opacity:0;
+        margin-top:-40px;
+
+    }
+    100% {
+        opacity: 1;
+        margin-top: 0;
+    }
+
+}
+
 
 .full-content-home{
     width:90%;
@@ -49,26 +92,21 @@
     height:425px;
     padding:20px 30px;
 
-}
-.icon-map{
-    margin:30px 94px 30px 94px;
-    font-size:25px;
-    color: red;
-}
-.name-park{
-    font-size:55px;
-    margin:60px 94px 10px  94px;
-    font-weight:800;
+
 }
 .content-introduce .text-content-introduce h2{
     color:#517A85;
     font-size:40px;
-    font-family:'Roboto',sans-serif;
+    font-family:'Palanquin Dark',sans-serif;
 }
-
+.introduce h1{
+    color:#517A85;
+    font-size:70px;
+    margin:55px 20px 0 0;
+    font-family:'Palanquin Dark',sans-serif;
+}
 .text-content-introduce h2{
     margin-top:50px;
-    font-weight:700;
 
 }
 
@@ -76,10 +114,6 @@
     align-items: center;
     margin-top:10px;
     font-size:15px;
-}
-.hotNew-tittle{
-    font-size:20px;
-    color: red;
 }
 .introduce{
     width:90%;
@@ -138,44 +172,41 @@
 }
 .Hot-newshome{
     padding:20px 0;
-    margin: auto;
-    width:90%;
-    height: auto;
+    width:100%;
+    height:1000px;
 }
 .experie-title{
-    font-family:'Roboto',sans-serif;
+    font-family:'Palanquin Dark',sans-serif;
 }
-
+.Hot-newshome h1{
+    color:#517A85;
+    font-size:70px;
+    margin:20px 144px;
+    font-family:'Palanquin Dark',sans-serif;
+}
 .full-content-hotnewhome{
+    display: flex;
     margin: auto;
-    width:100%;
+    width:85%;
     height:760px;
-    text-align: center;
-}
-.full-content-home h6{
-    font-size:20px;
-    font-weight:600;
-    margin:20px 94px 30px 94px ;
 }
 .Content-hotnewhome{
     margin:0 13px;
     background-color:white;
-    width:370px;
+    width:400px;
     height:760px;
     border-radius:10px;
     text-align: center;
     object-fit: cover;
     overflow: hidden;
-    display: inline-block;
-    box-shadow:2px 2px 10px rgba(0,0,0,0.3);
 }
 .Content-hotnewhome:hover{
-    box-shadow:5px 5px 20px rgba(0,0,0,0.3);
+    box-shadow:2px 2px 10px rgba(0,0,0,0.3);
     background-color: #ffffff;
 }
-.Content-hotnewhome:hover h4,
 .Content-hotnewhome:hover p{
-    color: #517A85;
+    color: #2EB1AB;
+    text-decoration: none;
 }
 .Content-hotnewhome:hover a{
     text-decoration:none;
@@ -184,7 +215,7 @@
     text-decoration:black;
 }
 .Hot-newshome .Content-hotnewhome .img-newhome{
-    width:350px;
+    width:380px;
     height:385px;
     margin:10px;
     border-radius:10px;
@@ -192,22 +223,27 @@
     object-fit: cover;
 
 }
-.Hot-newshome .Content-hotnewhome img {
-    width: 380px;
-    height: 385px;
-    object-fit: cover;
+.Hot-newshome .Content-hotnewhome .imgnew1{
+    width:380px;
+    height:385px;
 }
+.Hot-newshome .Content-hotnewhome .imgnew2{
+    width:490px;
+    height:395px;
+    object-fit: cover;
+    position: center;
+}.Hot-newshome .Content-hotnewhome .imgnew3{
+     width:380px;
+     height:385px;
+     object-fit: cover;
+     position: center;
+ }
 
 .Hot-newshome .Content-hotnewhome .content-text-homenew{
     margin:40px 0 40px 40px;
-    padding-top:10px;
     width:360px;
     height:150px;
     text-align: left;
-}
-.content-text-homenew p{
-    margin-top:20px;
-
 }
 .buttomNew{
     margin:60px 0 auto;
@@ -215,7 +251,7 @@
     height:40px;
     border-radius:10px;
     border: none;
-    background-color: #2EB1AB;
+    background-color: #5bc0de;
     color:#ffffff;
     font-size:15px;
 }
