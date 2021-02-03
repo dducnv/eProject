@@ -19,7 +19,7 @@
 }
 .NameContent{
     margin:0;
-    color: #1b6d85;
+    color:#000000;
 }
 .overall{
     width:1200px;
@@ -31,7 +31,7 @@
     border-radius:10px;
 }
 .overall:hover{
-    background-color: #b1e1df;
+    background-color: #f7f8f4;
 }
 .overall a{
     text-decoration: none;
