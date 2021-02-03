@@ -25,53 +25,10 @@
     display: block;
     text-transform: uppercase;
 }
-.wellcome{
-    color:#2EB1AB;
-    width:auto;
-    font-size:40px;
-    font-weight:500;
-    text-shadow: #1a736f 2px 2px;
-    animation: text2 0.75s ease-out forwards;
-    font-family: 'Quicksand',sans-serif;
-
+.navbar{
+    height:250px;
+    background: -webkit-linear-gradient(top, #ffffff 0.1px, transparent 100%);
 }
-.name-danang{
-    font-size:70px;
-    font-weight:500;
-    color: #f7f7f7;
-    margin-bottom:-40px;
-    letter-spacing:8px;
-    position: relative;
-    font-family: 'Noto Serif',sans-serif;
-    animation: text 0.75s ease-out forwards;
-    text-shadow: #1a736f 2px 2px;
-}
-@keyframes text {
-    0%{
-        opacity:0.1;
-        margin-top:100px;
-
-    }
-    100% {
-        opacity: 1;
-        margin-top: 0;
-    }
-
-}
-@keyframes text2 {
-    0%{
-        opacity:0;
-        margin-top:-40px;
-
-    }
-    100% {
-        opacity: 1;
-        margin-top: 0;
-    }
-
-}
-
-
 .full-content-home{
     width:90%;
     height:auto;
