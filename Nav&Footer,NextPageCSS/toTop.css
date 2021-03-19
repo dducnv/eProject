@@ -1,4 +1,8 @@
+html{
+    scroll-behavior: smooth;
+}
 #toTop{
+
     background-color:#2eb1ab;
     width:50px;
     z-index:99;

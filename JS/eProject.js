@@ -8,7 +8,6 @@ function scrollFunction() {
     } else {
         toTop.style.display = "none";
     }
-
     var nav= document.querySelector("Nav");
     nav.classList.toggle("sticky",window.scrollY>1)
 }

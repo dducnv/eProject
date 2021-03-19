@@ -8,6 +8,7 @@
 .main-IMG img{
     width:700px;
     height:450px;
+    transition:0.5s;
 }
 .room-preview img{
     height:70px;
@@ -16,7 +17,12 @@
     margin:10px 5px;
     float: left;
     cursor: pointer;
+    object-fit: cover;
 }
-.room-preview:hover img{
+.room-preview img:hover{
+    opacity:70%;
 
+}
+.room-preview .room-active{
+    border:3px solid #5a9c9f;
 }
